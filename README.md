@@ -18,4 +18,4 @@ Project Team Members:
 
 ## Classification Workflow
 ### Classification Model
-![Model Classification](Classification.png)
+![Model Classification](Images/Classification.png)
