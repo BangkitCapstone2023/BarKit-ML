@@ -1,0 +1,1001 @@
+ID,Deskripsi Produk,Merek,Kategori,Harga Sewa,Preferensi Pengguna,Jumlah Stok
+1,Kamera Mirrorless,Sony,Camera,200000,"Fotografi, Ringan, Kinerja",5
+2,Speaker Bluetooth,JBL,Speaker,100000,"Bergaya, Portabel",3
+3,Proyektor Mini,Epson,Proyektor,150000,"Kinerja, Mudah Digunakan",2
+4,Playstation 5,Sony,Playstation,250000,"Mewah, Gaming",4
+5,Tenda Camping 4 Orang,Coleman,Tenda,50000,"Nyaman, Ringan, Tahan Lama",6
+6,Sepatu Olahraga,Nike,Sepatu,80000,"Bergaya, Nyaman",10
+7,Matras Angin Tidur,Intex,Matras,30000,"Nyaman, Praktis",8
+8,Tas Punggung Anti Air,The North Face,Tas,120000,"Bergaya, Tahan Air",3
+9,Kamera DSLR,Canon,Camera,180000,"Fotografi, Kualitas Gambar",7
+10,Speaker Portable,Bose,Speaker,150000,"Kinerja, Suara Berkualitas",5
+11,Kursi Lipat,Cosco,Furniture,50000,"Praktis, Ringan",8
+12,Headset Wireless,Sennheiser,Headset,80000,"Berkualitas Suara, Nyaman",4
+13,Laptop Gaming,ASUS,Laptop,300000,"Performa Tinggi, Gaming",3
+14,Mesin Cuci Front Load,LG,Mesin Cuci,250000,"Efisien, Kapasitas Besar",6
+15,Smartphone Samsung,Samsung,Smartphone,150000,"Mewah, Kamera Unggul",9
+16,Sepeda Lipat,Polygon,Sepeda,70000,"Ringan, Portabel",5
+17,TV LED 32 Inch,Sony,TV,120000,"Kualitas Gambar, Hemat Energi",2
+18,Soundbar Samsung,Samsung,Soundbar,180000,"Suara Jernih, Desain Elegan",7
+19,Gitar Akustik,Yamaha,Alat Musik,90000,"Mudah Dimainkan, Kualitas Bunyi",4
+20,Meja Belajar,Krisbow,Furniture,60000,"Kuat, Praktis",10
+21,Smartwatch Apple,Apple,Smartwatch,250000,"Elegan, Fitur Lengkap",3
+22,Set Perkakas Tangan,Stanley,Perkakas,80000,"Kualitas, Multifungsi",6
+23,Blender Philips,Philips,Dapur,70000,"Kinerja Tinggi, Bahan Berkualitas",9
+24,Set Perlengkapan BBQ,Weber,Outdoor,150000,"Praktis, Tahan Lama",4
+25,Videocam Full HD,Sony,Videocam,200000,"Kualitas Rekaman, Portabel",5
+26,Mixer Audio Behringer,Behringer,Audio,120000,"Kualitas Suara, Mudah Digunakan",6
+27,Koper Hardcase,Samsonite,Koper,100000,"Tahan Air, Kuat",8
+28,Smart Lock,Yale,Perangkat Keamanan,150000,"Mudah Dipasang, Keamanan Tinggi",3
+29,Printer Multifungsi,Canon,Printer,80000,"Cepat, Kualitas Cetak Tinggi",7
+30,Kursi Kantor,Ergonomic,Furniture,100000,"Nyaman, Dukungan Punggung",10
+31,Monitor Gaming,ASUS,Monitor,250000,"Refresh Rate Tinggi, Kualitas Gambar",2
+32,Drone DJI,DJI,Drone,300000,"Kamera Terbang, Stabil",4
+33,Alat Fitness Treadmill,Reebok,Alat Fitness,200000,"Fitur Lengkap, Tahan Lama",6
+34,Perangkat Streaming Roku,Roku,Perangkat Streaming,80000,"Kualitas Streaming, Mudah Digunakan",8
+35,Set Perkakas Dapur,OXO,Dapur,70000,"Kualitas, Ergonomis",10
+36,Mikrofon Studio,Audio-Technica,Mikrofon,120000,"Rekaman Berkualitas, Pengurangan Noise",4
+37,Monitor Layar Sentuh,Dell,Monitor,150000,"Interaksi Mudah, Kualitas Gambar",5
+38,Kamera Aksi GoPro,GoPro,Kamera Aksi,180000,"Tahan Air, Kualitas Rekaman Tinggi",7
+39,Set Alat Pancing,Penn,Outdoor,80000,"Kuat, Tahan Lama",6
+40,Keyboard Mechanical,Logitech,Keyboard,100000,"Responsif, Desain Ergonomis",9
+41,Kursi Lipat Plastik,IKEA,Furniture,50000,"Praktis, Ringan",8
+42,Headset Gaming,Razer,Headset,150000,"Kualitas Suara, Kenyamanan",5
+43,Proyektor Home Theater,BenQ,Proyektor,200000,"Kualitas Gambar, Kinerja Tinggi",4
+44,Smart TV Samsung,Samsung,Smart TV,250000,"Resolusi Tinggi, Akses Streaming",3
+45,Mesin Jahit Portable,Singer,Mesin Jahit,80000,"Portabel, Mudah Digunakan",6
+46,Kulkas 2 Pintu,Sharp,Kulkas,300000,"Kapasitas Besar, Hemat Energi",2
+47,Kamera Polaroid,Fujifilm,Kamera,180000,"Instan, Gaya Retro",4
+48,Speaker Bookshelf,KEF,Speaker,200000,"Kualitas Suara, Desain Elegan",5
+49,Gitar Listrik,Ibanez,Alat Musik,250000,"Suara Nada Tinggi, Gaya Rock",7
+50,Kompor Gas Portable,Midea,Dapur,70000,"Praktis, Hemat Energi",8
+51,Smartphone iPhone,Apple,Smartphone,800000,"Kualitas Premium, Performa Tinggi",3
+52,Set Perkakas Listrik,Bosch,Perkakas,150000,"Kualitas, Keandalan",6
+53,Blender Ninja,Ninja,Dapur,100000,"Kinerja Tinggi, Mudah Dibersihkan",5
+54,Kamera Vlogging,Sony,Kamera,250000,"Vlogging, Portabel",4
+55,Laptop Ultrabook,HP,Laptop,300000,"Ringan, Performa Tinggi",3
+56,Set Alat Makan 12 Orang,Oneida,Dapur,150000,"Elegan, Tahan Lama",7
+57,Set Drum Elektrik,Roland,Alat Musik,500000,"Suara Realistis, Pelatihan Lebih Mudah",2
+58,Set Perlengkapan Camping,Coleman,Outdoor,200000,"Praktis, Tahan Lama",4
+59,Printer Wireless,HP,Printer,80000,"Cetak Berkualitas, Mudah Digunakan",6
+60,Kursi Eksekutif,Steelcase,Furniture,150000,"Nyaman, Desain Profesional",4
+61,Monitor Ultra-Wide,LG,Monitor,300000,"Tampilan Luas, Kualitas Gambar Tinggi",2
+62,Drone DJI Mini,DJI,Drone,250000,"Portabel, Kualitas Rekaman Tinggi",3
+63,Alat Fitness Elliptical,NordicTrack,Alat Fitness,200000,"Pelatihan Tubuh Utuh, Monitor Kesehatan",5
+64,Perangkat Streaming Chromecast,Google,Perangkat Streaming,80000,"Streaming Mudah, Akses Banyak Aplikasi",8
+65,Set Pisau Dapur,Wusthof,Dapur,150000,"Tajam, Tahan Lama",6
+66,Mikrofon Condenser,Neumann,Mikrofon,200000,"Rekaman Berkualitas, Responsif",4
+67,Monitor Gaming Acer,Acer,Monitor,250000,"Refresh Rate Tinggi, Desain Gaming",3
+68,Kamera Instant Polaroid,Fujifilm,Kamera,180000,"Instan, Gaya Retro",4
+69,Speaker Soundbar,Harman Kardon,Speaker,300000,"Suara Kualitas Tinggi, Desain Elegan",5
+70,Gitar Bass,Fender,Alat Musik,250000,"Suara Rendah, Tampilan Keren",7
+71,Kompor Induksi,Philips,Dapur,70000,"Efisien, Mudah Digunakan",8
+72,Smartphone Google Pixel,Google,Smartphone,800000,"Kualitas Kamera, Pengalaman Android Murni",3
+73,Set Perkakas Tangan DeWalt,DeWalt,Perkakas,200000,"Kualitas, Keandalan",4
+74,Blender KitchenAid,KitchenAid,Dapur,150000,"Kinerja Tinggi, Desain Elegan",5
+75,Kamera Action GoPro,GoPro,Kamera,250000,"Tahan Air, Rekaman Aktivitas",7
+76,Laptop Convertible,Lenovo,Laptop,300000,"Fleksibel, Kualitas Build Tinggi",3
+77,Set Alat Makan 6 Orang,Oneida,Dapur,120000,"Elegan, Tahan Lama",6
+78,Set Drum Akustik,Pearl,Alat Musik,600000,"Suara Nada Tinggi, Kualitas Build Tinggi",2
+79,Kompor Gas Built-in,Rinnai,Dapur,200000,"Desain Stylish, Efisien",4
+80,Smart TV LG,LG,Smart TV,250000,"Kualitas Gambar, Akses Streaming",3
+81,Mesin Jahit Profesional,Brother,Mesin Jahit,300000,"Kinerja Tinggi, Fitur Lengkap",5
+82,Kulkas Mini,Panasonic,Kulkas,80000,"Kompak, Hemat Energi",6
+83,Kamera DSLR Nikon,Nikon,Kamera,200000,"Fotografi, Kualitas Gambar Tinggi",7
+84,Speaker Bluetooth Sony,Sony,Speaker,150000,"Portabel, Suara Jernih",5
+85,Set Alat Musik Tradisional,Handmade,Alat Musik,50000,"Suara Autentik, Kualitas Riset",8
+86,Set Alat Tukang,Klein Tools,Perkakas,250000,"Kualitas, Ketahanan Tinggi",6
+87,Blender Hamilton Beach,Hamilton Beach,Dapur,80000,"Mudah Digunakan, Kualitas",10
+88,Kamera Mirrorless Canon,Canon,Camera,200000,"Fotografi, Kualitas Build Tinggi",5
+89,Laptop Gaming MSI,MSI,Laptop,400000,"Performa Tinggi, Desain Gaming",4
+90,Speaker Portable JBL,JBL,Speaker,150000,"Portabel, Suara Kualitas Tinggi",5
+91,Tenda Camping 6 Orang,Coleman,Tenda,80000,"Nyaman, Ringan, Tahan Lama",6
+92,Sepatu Lari,New Balance,Sepatu,120000,"Nyaman, Performa Tinggi",8
+93,Matras Angin Tidur Double,King Koil,Matras,150000,"Nyaman, Mudah Digunakan",5
+94,Tas Ransel Anti Air,Under Armour,Tas,200000,"Tahan Air, Desain Stylish",4
+95,Kamera Instant Leica,Leica,Kamera,250000,"Instan, Desain Klasik",7
+96,Speaker Bluetooth Bose,Bose,Speaker,300000,"Suara Berkualitas, Desain Elegan",5
+97,Gitar Elektrik,Gibson,Alat Musik,800000,"Suara Nada Tinggi, Desain Keren",6
+98,Kompor Gas Tanam,Electrolux,Dapur,200000,"Desain Stylish, Efisien",4
+99,Smartphone OnePlus,OnePlus,Smartphone,600000,"Kualitas Premium, Performa Tinggi",3
+100,Set Alat Pancing Shimano,Shimano,Outdoor,150000,"Kualitas, Keandalan",6
+101,Set Alat BBQ,Weber,Outdoor,200000,"Mudah Digunakan, Kualitas Tinggi",8
+102,Smart TV Sony,Sony,Smart TV,300000,"Kualitas Gambar, Akses Streaming",5
+103,Kursi Malas,Intex,Furniture,100000,"Nyaman, Portabel",10
+104,Drone DJI Phantom,DJI,Drone,500000,"Kamera Terbang, Stabil",4
+105,Alat Fitness Stationary Bike,Schwinn,Alat Fitness,250000,"Fitur Lengkap, Pelatihan Kardio",6
+106,Proyektor Mini,AAXA,Proyektor,150000,"Portabel, Kualitas Gambar Tinggi",7
+107,Set Perkakas Listrik Makita,Makita,Perkakas,400000,"Kualitas, Keandalan",4
+108,Blender Oster,Oster,Dapur,80000,"Pemrosesan Makanan Cepat, Mudah Dibersihkan",8
+109,Kamera Mirrorless Sony,Sony,Kamera,350000,"Fotografi, Kualitas Gambar Tinggi",5
+110,Laptop Apple MacBook,Apple,Laptop,800000,"Desain Stylish, Kualitas Build Tinggi",3
+111,Speaker Bluetooth JBL,JBL,Speaker,200000,"Portabel, Suara Kualitas Tinggi",5
+112,Tenda Camping 8 Orang,Coleman,Tenda,120000,"Nyaman, Ruang Luas",6
+113,Sepatu Basket,Nike,Sepatu,250000,"Nyaman, Performa Tinggi",7
+114,Matras Angin Tidur Queen,Simmons,Matras,200000,"Nyaman, Tahan Lama",6
+115,Tas Travel,The North Face,Tas,250000,"Kuat, Tahan Lama",7
+116,Kamera Instant Kodak,Kodak,Kamera,180000,"Instan, Desain Klasik",4
+117,Speaker Bluetooth Ultimate Ears,Ultimate Ears,Speaker,300000,"Suara Kualitas Tinggi, Desain Stylish",5
+118,Gitar Akustik,Taylor,Alat Musik,600000,"Suara Nada Tinggi, Kualitas Build Tinggi",2
+119,Kompor Gas Hemat Energi,Electrolux,Dapur,250000,"Efisien, Mudah Digunakan",8
+120,Smartphone Samsung Galaxy,Samsung,Smartphone,900000,"Performa Tinggi, Kualitas Kamera",3
+121,Set Alat Ukur,Lufkin,Perkakas,150000,"Presisi, Tahan Lama",6
+122,Blender Personal Blender,Breville,Dapur,150000,"Praktis, Kualitas",10
+123,Kamera DSLR Canon,Canon,Kamera,400000,"Fotografi, Kualitas Gambar Tinggi",7
+124,Laptop Acer,Acer,Laptop,500000,"Performa Tinggi, Harga Terjangkau",4
+125,Speaker Portable Sony,Sony,Speaker,200000,"Portabel, Suara Jernih",5
+126,Tenda Camping 4 Orang,Coleman,Tenda,80000,"Nyaman, Ringan",8
+127,Sepatu Lari Mizuno,Mizuno,Sepatu,150000,"Nyaman, Performa Tinggi",7
+128,Matras Angin Tidur Single,King Koil,Matras,100000,"Nyaman, Mudah Digunakan",6
+129,Tas Backpack,JanSport,Tas,150000,"Ringan, Tahan Lama",6
+130,Kamera Instant Fujifilm,Fujifilm,Kamera,200000,"Instan, Gaya Retro",4
+131,Speaker Bluetooth Bose,Bose,Speaker,400000,"Suara Kualitas Tinggi, Desain Elegan",5
+132,Gitar Klasik,Yamaha,Alat Musik,200000,"Suara Nada Rendah, Desain Klasik",6
+133,Kompor Induksi Hemat Energi,Philips,Dapur,250000,"Efisien, Mudah Digunakan",8
+134,Smart TV Samsung,Samsung,Smart TV,400000,"Kualitas Gambar, Akses Streaming",5
+135,Mesin Jahit Brother,Brother,Mesin Jahit,250000,"Kualitas, Fitur Lengkap",6
+136,Kulkas 2 Pintu,LG,Kulkas,150000,"Tahan Lama, Hemat Energi",7
+137,Kamera Mirrorless Fujifilm,Fujifilm,Kamera,300000,"Fotografi, Desain Retro",4
+138,Laptop HP,HP,Laptop,600000,"Performa Tinggi, Harga Terjangkau",4
+139,Speaker Portable JBL,JBL,Speaker,200000,"Portabel, Suara Kualitas Tinggi",5
+140,Tenda Camping 10 Orang,Coleman,Tenda,150000,"Nyaman, Ruang Luas",6
+141,Sepatu Sepeda,Shimano,Sepatu,200000,"Nyaman, Performa Tinggi",7
+142,Matras Angin Tidur King,King Koil,Matras,200000,"Nyaman, Tahan Lama",6
+143,Tas Ransel Laptop,Targus,Tas,150000,"Kuat, Tahan Lama",6
+144,Kamera DSLR Sony,Sony,Kamera,500000,"Fotografi, Kualitas Gambar Tinggi",7
+145,Laptop Dell,Dell,Laptop,700000,"Performa Tinggi, Kualitas Build Tinggi",4
+146,Speaker Bluetooth JBL,JBL,Speaker,250000,"Portabel, Suara Kualitas Tinggi",5
+147,Tenda Camping 2 Orang,Coleman,Tenda,60000,"Nyaman, Ringan",8
+148,Sepatu Basket,Adidas,Sepatu,250000,"Nyaman, Performa Tinggi",7
+149,Matras Angin Tidur Single,Intex,Matras,80000,"Nyaman, Mudah Digunakan",6
+150,Tas Selempang,Puma,Tas,120000,"Praktis, Tahan Lama",6
+151,Kamera Mirrorless Olympus,Olympus,Kamera,250000,"Fotografi, Kualitas Gambar Tinggi",7
+152,Laptop ASUS,ASUS,Laptop,600000,"Performa Tinggi, Desain Stylish",4
+153,Speaker Portable Marshall,Marshall,Speaker,250000,"Portabel, Suara Kualitas Tinggi",5
+154,Blender Philips,Philips,Dapur,80000,"Pemrosesan Makanan Cepat, Mudah Dibersihkan",8
+155,Kamera DSLR Nikon,Nikon,Kamera,450000,"Fotografi, Kualitas Gambar Tinggi",7
+156,Laptop Lenovo,Lenovo,Laptop,500000,"Performa Tinggi, Harga Terjangkau",4
+157,Speaker Bluetooth Sony,Sony,Speaker,300000,"Portabel, Suara Jernih",5
+158,Tenda Camping 6 Orang,Coleman,Tenda,120000,"Nyaman, Ruang Luas",6
+159,Sepatu Lari,New Balance,Sepatu,180000,"Nyaman, Performa Tinggi",7
+160,Matras Angin Tidur Double,King Koil,Matras,200000,"Nyaman, Tahan Lama",6
+161,Tas Ransel Anti Air,Under Armour,Tas,250000,"Tahan Air, Desain Stylish",6
+162,Kamera Instant Leica,Leica,Kamera,300000,"Instan, Desain Klasik",4
+163,Speaker Bluetooth Bose,Bose,Speaker,500000,"Suara Kualitas Tinggi, Desain Elegan",5
+164,Gitar Elektrik,Gibson,Alat Musik,1000000,"Suara Nada Tinggi, Desain Keren",6
+165,Kompor Gas Tanam,Electrolux,Dapur,250000,"Desain Stylish, Efisien",8
+166,Smartphone OnePlus,OnePlus,Smartphone,700000,"Kualitas Premium, Performa Tinggi",3
+167,Set Alat Pancing Shimano,Shimano,Outdoor,200000,"Kualitas, Keandalan",6
+168,Set Alat BBQ,Weber,Outdoor,200000,"Mudah Digunakan, Kualitas Tinggi",8
+169,Smart TV Sony,Sony,Smart TV,300000,"Kualitas Gambar, Akses Streaming",5
+170,Kursi Malas,Intex,Furniture,100000,"Nyaman, Portabel",10
+171,Drone DJI Phantom,DJI,Drone,500000,"Kamera Terbang, Stabil",4
+172,Alat Fitness Stationary Bike,Schwinn,Alat Fitness,250000,"Fitur Lengkap, Pelatihan Kardio",6
+173,Proyektor Mini,AAXA,Proyektor,150000,"Portabel, Kualitas Gambar Tinggi",7
+174,Set Perkakas Listrik Makita,Makita,Perkakas,400000,"Kualitas, Keandalan",4
+175,Blender Oster,Oster,Dapur,80000,"Pemrosesan Makanan Cepat, Mudah Dibersihkan",8
+176,Kamera Mirrorless Sony,Sony,Kamera,350000,"Fotografi, Kualitas Gambar Tinggi",5
+177,Laptop Apple MacBook,Apple,Laptop,800000,"Desain Stylish, Kualitas Build Tinggi",3
+178,Speaker Bluetooth JBL,JBL,Speaker,200000,"Portabel, Suara Kualitas Tinggi",5
+179,Tenda Camping 8 Orang,Coleman,Tenda,120000,"Nyaman, Ruang Luas",6
+180,Sepatu Basket,Nike,Sepatu,250000,"Nyaman, Performa Tinggi",7
+181,Matras Angin Tidur Queen,Simmons,Matras,200000,"Nyaman, Tahan Lama",6
+182,Tas Travel,The North Face,Tas,250000,"Kuat, Tahan Lama",7
+183,Kamera Instant Kodak,Kodak,Kamera,180000,"Instan, Desain Klasik",4
+184,Speaker Bluetooth Ultimate Ears,Ultimate Ears,Speaker,300000,"Suara Kualitas Tinggi, Desain Stylish",5
+185,Gitar Akustik,Taylor,Alat Musik,600000,"Suara Nada Tinggi, Kualitas Build Tinggi",2
+186,Kompor Gas Hemat Energi,Electrolux,Dapur,250000,"Efisien, Mudah Digunakan",8
+187,Smartphone Samsung Galaxy,Samsung,Smartphone,900000,"Performa Tinggi, Kualitas Kamera",3
+188,Set Alat Ukur,Lufkin,Perkakas,150000,"Presisi, Tahan Lama",6
+189,Blender Personal Blender,Breville,Dapur,150000,"Praktis, Kualitas",10
+190,Kamera DSLR Canon,Canon,Kamera,400000,"Fotografi, Kualitas Gambar Tinggi",7
+191,Laptop Acer,Acer,Laptop,500000,"Performa Tinggi, Harga Terjangkau",4
+192,Speaker Portable Sony,Sony,Speaker,200000,"Portabel, Suara Jernih",5
+193,Tenda Camping 4 Orang,Coleman,Tenda,80000,"Nyaman, Ringan",8
+194,Sepatu Lari Mizuno,Mizuno,Sepatu,150000,"Nyaman, Performa Tinggi",7
+195,Matras Angin Tidur Single,King Koil,Matras,100000,"Nyaman, Mudah Digunakan",6
+196,Tas Backpack,JanSport,Tas,150000,"Ringan, Tahan Lama",6
+197,Kamera Instant Fujifilm,Fujifilm,Kamera,200000,"Instan, Gaya Retro",4
+198,Speaker Bluetooth Bose,Bose,Speaker,400000,"Suara Kualitas Tinggi, Desain Elegan",5
+199,Gitar Klasik,Yamaha,Alat Musik,200000,"Suara Nada Rendah, Desain Klasik",6
+200,Kompor Induksi Hemat Energi,Philips,Dapur,250000,"Efisien, Mudah Digunakan",8
+201,Kamera Mirrorless Canon EOS M50,Canon,Kamera,600000," Kualitas Tinggi,Fotografi",5
+202,Speaker Bluetooth Sony SRS-XB41,Sony,Speaker,400000," Suara Bass Tinggi,Portabel",7
+203,Proyektor HD Epson EB-X41,Epson,Proyektor,800000," Terang,Kualitas Gambar Tinggi",3
+204,PlayStation 4 Slim,Sony,Playstation,250000," Kualitas Grafis Tinggi,Gaming",8
+205,Tenda Camping 4 Orang,Coleman,Tenda,150000," Mudah Dipasang,Nyaman",6
+206,Sepatu Casual,Nike,Sepatu,300000," Stylish,Nyaman",6
+207,Matras Angin Tidur Single,Bestway,Matras,100000," Mudah Digunakan,Nyaman",7
+208,Tas Selempang Polo,Ralph Lauren,Tas,400000," Desain Klasik,Tahan Lama",5
+209,Kamera Instax Mini 11,Fujifilm,Kamera,150000," Gaya Retro,Instan",6
+210,Speaker Bluetooth JBL Go,JBL,Speaker,100000," Suara Jernih,Portabel",8
+211,Proyektor Mini HD Xiaomi Mi,Xiaomi,Proyektor,300000," Kualitas Gambar Tinggi,Portabel",7
+212,Speaker Portable Bose SoundLink Mini,Bose,Speaker,600000," Suara Kualitas Tinggi,Portabel",4
+213,PlayStation 3,Sony,Playstation,150000," Nostalgia,Gaming",9
+214,Tenda Camping 6 Orang,Coleman,Tenda,180000," Mudah Dipasang,Nyaman",6
+215,Sepatu Sneakers Adidas Superstar,Adidas,Sepatu,350000," Nyaman,Stylish",5
+216,Matras Angin Tidur Double,King Koil,Matras,200000," Tahan Lama,Nyaman",6
+217,Tas Selempang Fossil Estate,Fossil,Tas,300000," Desain Klasik,Tahan Lama",6
+218,Kamera Mirrorless Sony Alpha A6000,Sony,Kamera,800000," Kualitas Tinggi,Fotografi",4
+219,Speaker Bluetooth JBL Charge 4,JBL,Speaker,500000," Suara Bass Tinggi,Portabel",5
+220,Proyektor HD LG CineBeam PH150G,LG,Proyektor,700000," Kualitas Gambar Tinggi,Portabel",3
+221,Speaker Portable Sony SRS-XB12,Sony,Speaker,200000," Suara Kualitas Tinggi,Portabel",6
+222,PlayStation 2 Slim,Sony,Playstation,150000," Nostalgia,Gaming",8
+223,Tenda Camping 8 Orang,Coleman,Tenda,200000," Mudah Dipasang,Nyaman",5
+224,Sepatu Running Nike Air Zoom Pegasus,Nike,Sepatu,500000," Dukungan Kaki,Nyaman",6
+225,Matras Angin Tidur Queen,Simmons,Matras,250000," Tahan Lama,Nyaman",4
+226,Tas Selempang Guess,Guess,Tas,350000," Desain Modern,Tahan Lama",6
+227,Kamera DSLR Nikon D5600,Nikon,Kamera,700000," Kualitas Tinggi,Fotografi",4
+228,Speaker Bluetooth JBL Flip 5,JBL,Speaker,450000," Suara Kualitas Tinggi,Portabel",5
+229,Proyektor HD BenQ TK800,BenQ,Proyektor,900000," Terang,Kualitas Gambar Tinggi",3
+230,PlayStation 5,Sony,Playstation,800000," Kualitas Grafis Tinggi,Gaming",4
+231,Tenda Camping 10 Orang,Coleman,Tenda,250000," Mudah Dipasang,Nyaman",5
+232,Sepatu Sneakers Converse All Star,Converse,Sepatu,400000," Nyaman,Stylish",7
+233,Matras Angin Tidur Single,Intex,Matras,150000," Mudah Digunakan,Nyaman",6
+234,Tas Ransel Herschel,Herschel,Tas,600000," Desain Modern,Tahan Lama",5
+235,Kamera Mirrorless Fujifilm X-T30,Fujifilm,Kamera,900000," Kualitas Tinggi,Fotografi",3
+236,Speaker Bluetooth Ultimate Ears Wonderboom,Ultimate Ears,Speaker,350000," Suara Kualitas Tinggi,Portabel",6
+237,Proyektor Mini HD AAXA P300,AAXA Technologies,Proyektor,500000," Kualitas Gambar Tinggi,Portabel",5
+238,Speaker Portable Sony SRS-XB22,Sony,Speaker,300000," Suara Bass Tinggi,Portabel",7
+239,PlayStation Portable (PSP),Sony,Playstation,200000," Portabel,Gaming",8
+240,Tenda Camping 6 Orang,Bestway,Tenda,180000," Mudah Dipasang,Nyaman",7
+241,Sepatu Boots,Caterpillar,Sepatu,600000," Nyaman,Tahan Lama",5
+242,Matras Angin Tidur Double,Intex,Matras,250000," Tahan Lama,Nyaman",4
+243,Tas Selempang Michael Kors,Michael Kors,Tas,900000," Desain Klasik,Mewah",3
+244,Kamera DSLR Sony Alpha A7 III,Sony,Kamera,1500000," Kualitas Tinggi,Fotografi",2
+245,Speaker Bluetooth JBL Clip 3,JBL,Speaker,250000," Suara Kualitas Tinggi,Portabel",6
+246,Proyektor HD Epson EH-TW570,Epson,Proyektor,700000," Terang,Kualitas Gambar Tinggi",4
+247,PlayStation VR Bundle,Sony,Playstation,1000000," Realitas Virtual,Gaming",2
+248,Tenda Camping 4 Orang,Coleman,Tenda,150000," Mudah Dipasang,Nyaman",6
+249,Sepatu Slip-On,Vans,Sepatu,300000," Nyaman,Stylish",7
+250,Matras Angin Tidur Single,Intex,Matras,150000," Mudah Digunakan,Nyaman",8
+251,Tas Selempang Coach,Coach,Tas,500000," Desain Modern,Tahan Lama",6
+252,Kamera Mirrorless Olympus OM-D E-M10 Mark III,Olympus,Kamera,800000," Kualitas Tinggi,Fotografi",5
+253,Speaker Bluetooth Bose SoundLink Revolve,Bose,Speaker,600000," Suara Bass Tinggi,Portabel",4
+254,Proyektor HD ViewSonic PA503W,ViewSonic,Proyektor,800000," Terang,Kualitas Gambar Tinggi",3
+255,PlayStation 4 Pro,Sony,Playstation,400000," Kualitas Grafis Tinggi,Gaming",5
+256,Tenda Camping 8 Orang,Coleman,Tenda,200000," Mudah Dipasang,Nyaman",6
+257,Sepatu Running Adidas Ultraboost,Adidas,Sepatu,800000," Dukungan Kaki,Nyaman",5
+258,Matras Angin Tidur Queen,Intex,Matras,300000," Tahan Lama,Nyaman",4
+259,Tas Selempang Prada,Prada,Tas,1200000," Desain Elegan,Mewah",3
+260,Kamera DSLR Nikon D7500,Nikon,Kamera,1000000," Kualitas Tinggi,Fotografi",4
+261,Speaker Bluetooth Harman Kardon Onyx Studio,Harman Kardon,Speaker,800000," Suara Kualitas Tinggi,Portabel",6
+262,Proyektor Mini HD Anker Nebula Capsule,Anker,Proyektor,500000," Kualitas Gambar Tinggi,Portabel",5
+263,Speaker Portable Sony SRS-XB32,Sony,Speaker,350000," Suara Bass Tinggi,Portabel",6
+264,PlayStation Classic,Sony,Playstation,300000," Nostalgia,Gaming",7
+265,Tenda Camping 6 Orang,Bestway,Tenda,180000," Mudah Dipasang,Nyaman",6
+266,Sepatu Sneakers Puma,Puma,Sepatu,350000," Nyaman,Stylish",6
+267,Matras Angin Tidur Double,Intex,Matras,250000," Tahan Lama,Nyaman",5
+268,Tas Selempang Chanel,Chanel,Tas,1500000," Desain Klasik,Mewah",4
+269,Kamera Mirrorless Fujifilm X-T4,Fujifilm,Kamera,1800000," Kualitas Tinggi,Fotografi",3
+270,Speaker Bluetooth JBL Xtreme 2,JBL,Speaker,1000000," Suara Bass Tinggi,Portabel",5
+271,Proyektor HD Optoma HD146X,Optoma,Proyektor,1200000," Terang,Kualitas Gambar Tinggi",3
+272,PlayStation 3 Slim,Sony,Playstation,300000," Nostalgia,Gaming",6
+273,Tenda Camping 4 Orang,Coleman,Tenda,150000," Mudah Dipasang,Nyaman",5
+274,Sepatu Running Nike Air Max,Nike,Sepatu,700000," Dukungan Kaki,Nyaman",5
+275,Matras Angin Tidur Single,Bestway,Matras,100000," Mudah Digunakan,Nyaman",6
+276,Tas Selempang Louis Vuitton,Louis Vuitton,Tas,2000000," Desain Elegan,Mewah",3
+277,Kamera DSLR Canon EOS 5D Mark IV,Canon,Kamera,2000000," Kualitas Tinggi,Fotografi",2
+278,Speaker Bluetooth Bose SoundLink Micro,Bose,Speaker,400000," Suara Kualitas Tinggi,Portabel",6
+279,Proyektor HD Epson EH-TW650,Epson,Proyektor,900000," Terang,Kualitas Gambar Tinggi",4
+280,PlayStation 4,Sony,Playstation,250000," Kualitas Grafis Tinggi,Gaming",7
+281,Tenda Camping 8 Orang,Coleman,Tenda,200000," Mudah Dipasang,Nyaman",6
+282,Sepatu Sneakers Reebok,Reebok,Sepatu,400000," Nyaman,Stylish",7
+283,Matras Angin Tidur Queen,Intex,Matras,250000," Tahan Lama,Nyaman",5
+284,Tas Selempang Gucci,Gucci,Tas,1500000," Desain Klasik,Mewah",4
+285,Kamera Mirrorless Sony Alpha A7R III,Sony,Kamera,2500000," Kualitas Tinggi,Fotografi",3
+286,Speaker Bluetooth JBL Pulse 4,JBL,Speaker,700000," Suara Bass Tinggi,Portabel",5
+287,Proyektor Mini HD Apeman LC350,Apeman,Proyektor,300000," Kualitas Gambar Tinggi,Portabel",6
+288,Speaker Portable Sony SRS-XB31,Sony,Speaker,300000," Suara Kualitas Tinggi,Portabel",7
+289,PlayStation 2 Slim,Sony,Playstation,150000," Nostalgia,Gaming",8
+290,Tenda Camping 6 Orang,Bestway,Tenda,180000," Mudah Dipasang,Nyaman",6
+291,Sepatu Casual,Nike,Sepatu,300000," Stylish,Nyaman",7
+292,Matras Angin Tidur Double,King Koil,Matras,200000," Tahan Lama,Nyaman",5
+293,Tas Selempang Polo,Ralph Lauren,Tas,400000," Desain Klasik,Tahan Lama",6
+294,Kamera Mirrorless Sony Alpha A6000,Sony,Kamera,800000," Kualitas Tinggi,Fotografi",4
+295,Speaker Bluetooth JBL Go,JBL,Speaker,100000," Suara Jernih,Portabel",8
+296,Proyektor HD LG CineBeam PH150G,LG,Proyektor,700000," Kualitas Gambar Tinggi,Portabel",6
+297,Speaker Portable Sony SRS-XB12,Sony,Speaker,200000," Suara Kualitas Tinggi,Portabel",7
+298,PlayStation 2 Slim,Sony,Playstation,150000," Nostalgia,Gaming",8
+299,Tenda Camping 8 Orang,Coleman,Tenda,200000," Mudah Dipasang,Nyaman",5
+300,Sepatu Running Nike Air Zoom Pegasus,Nike,Sepatu,500000," Dukungan Kaki,Nyaman",7
+301,Kamera Mirrorless Canon EOS M50,Canon,Kamera,1000000," Kualitas Tinggi,Fotografi",4
+302,Speaker Bluetooth Sony SRS-XB41,Sony,Speaker,600000," Suara Bass Tinggi,Portabel",5
+303,Proyektor Mini HD RAGU Z498,RAGU,Proyektor,500000," Kualitas Gambar Tinggi,Portabel",6
+304,PlayStation 4 Slim,Sony,Playstation,300000," Kualitas Grafis Tinggi,Gaming",7
+305,Tenda Camping 6 Orang,Bestway,Tenda,200000," Mudah Dipasang,Nyaman",8
+306,Sepatu Sneakers Nike Air Force,Nike,Sepatu,500000," Nyaman,Stylish",7
+307,Matras Angin Tidur Single,Intex,Matras,150000," Mudah Digunakan,Nyaman",6
+308,Tas Selempang Burberry,Burberry,Tas,800000," Desain Klasik,Mewah",5
+309,Kamera DSLR Nikon D850,Nikon,Kamera,2000000," Kualitas Tinggi,Fotografi",4
+310,Speaker Bluetooth JBL Charge 4,JBL,Speaker,800000," Suara Bass Tinggi,Portabel",5
+311,Proyektor HD BenQ TH685,BenQ,Proyektor,1500000," Terang,Kualitas Gambar Tinggi",3
+312,PlayStation 3 Fat,Sony,Playstation,200000," Nostalgia,Gaming",6
+313,Tenda Camping 4 Orang,Coleman,Tenda,150000," Mudah Dipasang,Nyaman",5
+314,Sepatu Running Adidas Ultraboost,Adidas,Sepatu,800000," Dukungan Kaki,Nyaman",6
+315,Matras Angin Tidur Queen,Intex,Matras,300000," Tahan Lama,Nyaman",7
+316,Tas Selempang Louis Vuitton,Louis Vuitton,Tas,2000000," Desain Elegan,Mewah",4
+317,Kamera Mirrorless Fujifilm X-T4,Fujifilm,Kamera,1800000," Kualitas Tinggi,Fotografi",3
+318,Speaker Bluetooth JBL Xtreme 2,JBL,Speaker,1000000," Suara Bass Tinggi,Portabel",5
+319,Proyektor HD Optoma HD146X,Optoma,Proyektor,1200000," Terang,Kualitas Gambar Tinggi",3
+320,PlayStation 2 Slim,Sony,Playstation,150000," Nostalgia,Gaming",6
+321,Tenda Camping 8 Orang,Coleman,Tenda,200000," Mudah Dipasang,Nyaman",5
+322,Sepatu Sneakers Nike Air Max,Nike,Sepatu,700000," Nyaman,Stylish",7
+323,Matras Angin Tidur Single,Bestway,Matras,100000," Mudah Digunakan,Nyaman",8
+324,Tas Selempang Gucci,Gucci,Tas,1500000," Desain Klasik,Mewah",6
+325,Kamera DSLR Canon EOS 5D Mark IV,Canon,Kamera,2000000," Kualitas Tinggi,Fotografi",5
+326,Speaker Bluetooth Bose SoundLink Micro,Bose,Speaker,400000," Suara Kualitas Tinggi,Portabel",7
+327,Proyektor HD Epson EH-TW650,Epson,Proyektor,900000," Terang,Kualitas Gambar Tinggi",4
+328,PlayStation 4,Sony,Playstation,250000," Kualitas Grafis Tinggi,Gaming",8
+329,Tenda Camping 6 Orang,Bestway,Tenda,180000," Mudah Dipasang,Nyaman",6
+330,Sepatu Casual,Nike,Sepatu,300000," Stylish,Nyaman",7
+331,Matras Angin Tidur Double,King Koil,Matras,200000," Tahan Lama,Nyaman",6
+332,Tas Selempang Polo,Ralph Lauren,Tas,400000," Desain Klasik,Tahan Lama",7
+333,Kamera Mirrorless Sony Alpha A6000,Sony,Kamera,800000," Kualitas Tinggi,Fotografi",5
+334,Speaker Bluetooth JBL Go,JBL,Speaker,100000," Suara Jernih,Portabel",8
+335,Proyektor HD LG CineBeam PH150G,LG,Proyektor,700000," Kualitas Gambar Tinggi,Portabel",6
+336,Speaker Portable Sony SRS-XB12,Sony,Speaker,200000," Suara Kualitas Tinggi,Portabel",7
+337,PlayStation 2 Slim,Sony,Playstation,150000," Nostalgia,Gaming",8
+338,Tenda Camping 8 Orang,Coleman,Tenda,200000," Mudah Dipasang,Nyaman",5
+339,Sepatu Running Nike Air Zoom Pegasus,Nike,Sepatu,500000," Dukungan Kaki,Nyaman",7
+340,Matras Angin Tidur Queen,Intex,Matras,300000," Tahan Lama,Nyaman",6
+341,Tas Selempang Chanel,Chanel,Tas,1200000," Desain Klasik,Mewah",4
+342,Kamera DSLR Nikon D7500,Nikon,Kamera,1000000," Kualitas Tinggi,Fotografi",5
+343,Speaker Bluetooth Harman Kardon Onyx Studio,Harman Kardon,Speaker,800000," Suara Kualitas Tinggi,Portabel",6
+344,Proyektor Mini HD Anker Nebula Capsule,Anker,Proyektor,500000," Kualitas Gambar Tinggi,Portabel",5
+345,Speaker Portable Sony SRS-XB32,Sony,Speaker,350000," Suara Bass Tinggi,Portabel",7
+346,PlayStation Classic,Sony,Playstation,300000," Nostalgia,Gaming",8
+347,Tenda Camping 6 Orang,Bestway,Tenda,180000," Mudah Dipasang,Nyaman",6
+348,Sepatu Running Adidas Ultraboost,Adidas,Sepatu,800000," Dukungan Kaki,Nyaman",7
+349,Matras Angin Tidur Queen,Intex,Matras,300000," Tahan Lama,Nyaman",6
+350,Tas Selempang Prada,Prada,Tas,1500000," Desain Elegan,Mewah",4
+351,Kamera Mirrorless Fujifilm X-T3,Fujifilm,Kamera,1800000," Kualitas Tinggi,Fotografi",5
+352,Speaker Bluetooth JBL Charge 3,JBL,Speaker,600000," Suara Bass Tinggi,Portabel",7
+353,Proyektor HD BenQ TH585,BenQ,Proyektor,1000000," Terang,Kualitas Gambar Tinggi",4
+354,PlayStation 3 Slim,Sony,Playstation,250000," Nostalgia,Gaming",8
+355,Tenda Camping 4 Orang,Coleman,Tenda,150000," Mudah Dipasang,Nyaman",5
+356,Sepatu Sneakers Nike Air Max,Nike,Sepatu,700000," Nyaman,Stylish",7
+357,Matras Angin Tidur Single,Bestway,Matras,100000," Mudah Digunakan,Nyaman",8
+358,Tas Selempang Louis Vuitton,Louis Vuitton,Tas,2000000," Desain Elegan,Mewah",4
+359,Kamera DSLR Canon EOS 6D Mark II,Canon,Kamera,2500000," Kualitas Tinggi,Fotografi",4
+360,Speaker Bluetooth Bose SoundLink Mini II,Bose,Speaker,900000," Suara Kualitas Tinggi,Portabel",6
+361,Proyektor Mini HD Apeman LC550,Apeman,Proyektor,400000," Kualitas Gambar Tinggi,Portabel",6
+362,PlayStation 4 Pro,Sony,Playstation,350000," Kualitas Grafis Tinggi,Gaming",7
+363,Tenda Camping 8 Orang,Coleman,Tenda,200000," Mudah Dipasang,Nyaman",6
+364,Sepatu Sneakers Converse,Converse,Sepatu,400000," Nyaman,Stylish",7
+365,Matras Angin Tidur Double,King Koil,Matras,200000," Tahan Lama,Nyaman",6
+366,Tas Selempang Coach,Coach,Tas,800000," Desain Klasik,Tahan Lama",6
+367,Kamera Mirrorless Sony Alpha A7 III,Sony,Kamera,2800000," Kualitas Tinggi,Fotografi",4
+368,Speaker Bluetooth JBL Clip 3,JBL,Speaker,300000," Suara Kualitas Tinggi,Portabel",7
+369,Proyektor HD ViewSonic PX700HD,ViewSonic,Proyektor,1500000," Terang,Kualitas Gambar Tinggi",5
+370,PlayStation 2 Slim,Sony,Playstation,150000," Nostalgia,Gaming",6
+371,Tenda Camping 6 Orang,Bestway,Tenda,180000," Mudah Dipasang,Nyaman",6
+372,Sepatu Running Nike Air Zoom Pegasus,Nike,Sepatu,500000," Dukungan Kaki,Nyaman",7
+373,Matras Angin Tidur Queen,Intex,Matras,250000," Tahan Lama,Nyaman",6
+374,Tas Selempang Gucci,Gucci,Tas,1500000," Desain Klasik,Mewah",4
+375,Kamera Mirrorless Fujifilm X-T30,Fujifilm,Kamera,1500000," Kualitas Tinggi,Fotografi",5
+376,Speaker Bluetooth JBL Flip 4,JBL,Speaker,700000," Suara Bass Tinggi,Portabel",6
+377,Proyektor HD Epson EB-X05,Epson,Proyektor,800000," Terang,Kualitas Gambar Tinggi",5
+378,PlayStation Vita,Sony,Playstation,200000," Portabel,Gaming",8
+379,Tenda Camping 4 Orang,Coleman,Tenda,150000," Mudah Dipasang,Nyaman",5
+380,Sepatu Sneakers Nike Air Force,Nike,Sepatu,500000," Nyaman,Stylish",7
+381,Matras Angin Tidur Single,Bestway,Matras,100000," Mudah Digunakan,Nyaman",8
+382,Tas Selempang Burberry,Burberry,Tas,800000," Desain Klasik,Mewah",5
+383,Kamera DSLR Nikon D850,Nikon,Kamera,2000000," Kualitas Tinggi,Fotografi",4
+384,Speaker Bluetooth JBL Charge 4,JBL,Speaker,800000," Suara Bass Tinggi,Portabel",5
+385,Proyektor HD BenQ TH685,BenQ,Proyektor,1500000," Terang,Kualitas Gambar Tinggi",3
+386,PlayStation 3 Fat,Sony,Playstation,200000," Nostalgia,Gaming",6
+387,Tenda Camping 6 Orang,Bestway,Tenda,150000," Mudah Dipasang,Nyaman",5
+388,Sepatu Sneakers Nike Air Max,Nike,Sepatu,700000," Nyaman,Stylish",7
+389,Matras Angin Tidur Single,Intex,Matras,150000," Mudah Digunakan,Nyaman",6
+390,Tas Selempang Gucci,Gucci,Tas,800000," Desain Klasik,Mewah",5
+391,Kamera DSLR Nikon D7500,Nikon,Kamera,1000000," Kualitas Tinggi,Fotografi",4
+392,Speaker Bluetooth JBL Xtreme 2,JBL,Speaker,1000000," Suara Bass Tinggi,Portabel",5
+393,Proyektor HD Optoma HD146X,Optoma,Proyektor,1200000," Terang,Kualitas Gambar Tinggi",3
+394,PlayStation 2 Slim,Sony,Playstation,150000," Nostalgia,Gaming",6
+395,Tenda Camping 8 Orang,Coleman,Tenda,200000," Mudah Dipasang,Nyaman",5
+396,Sepatu Sneakers Nike Air Max,Nike,Sepatu,700000," Nyaman,Stylish",7
+397,Matras Angin Tidur Single,Bestway,Matras,100000," Mudah Digunakan,Nyaman",8
+398,Tas Selempang Louis Vuitton,Louis Vuitton,Tas,2000000," Desain Elegan,Mewah",4
+399,Kamera Mirrorless Fujifilm X-T4,Fujifilm,Kamera,1800000," Kualitas Tinggi,Fotografi",3
+400,Speaker Bluetooth JBL Charge 3,JBL,Speaker,600000," Suara Bass Tinggi,Portabel",7
+401,Proyektor Mini,ViewSonic,Proyektor,300000,"Portabel, Kualitas Gambar Tinggi",5
+402,Speaker Gaming Logitech,Logitech,Speaker,250000,"Suara Surround, Desain Gaming",6
+403,PlayStation 5,Sony,Playstation,800000,"Gaming, Kualitas Grafis Tinggi",3
+404,Tenda Camping 2 Orang,Coleman,Tenda,70000,"Kompak, Mudah Dipasang",9
+405,Sepatu Sneakers,Nike,Sepatu,250000,"Stylish, Nyaman",6
+406,Matras Angin Tidur King,Intex,Matras,300000,"Nyaman, Kuat",5
+407,Tas Ransel Eiger,Eiger,Tas,200000,"Tahan Lama, Fungsional",7
+408,Kamera Mirrorless Sony,Sony,Kamera,550000,"Fotografi, Kualitas Tinggi",4
+409,Speaker Bluetooth Harman Kardon,Harman Kardon,Speaker,500000,"Suara Kualitas Premium, Desain Elegan",4
+410,Proyektor HD,Optoma,Proyektor,400000,"Kualitas Gambar Tinggi, Fleksibel",7
+411,Speaker Portable JBL Flip,JBL,Speaker,150000,"Portabel, Suara Jernih",8
+412,PlayStation 4,Sony,Playstation,500000,"Gaming, Kualitas Grafis Tinggi",5
+413,Tenda Camping 3 Orang,Coleman,Tenda,90000,"Nyaman, Mudah Dipasang",7
+414,Sepatu Casual,Puma,Sepatu,180000,"Stylish, Nyaman",6
+415,Matras Angin Tidur Single,Bestway,Matras,120000,"Nyaman, Mudah Digunakan",7
+416,Tas Travel,Samsonite,Tas,300000,"Kapasitas Besar, Tahan Lama",5
+417,Kamera Action GoPro,GoPro,Kamera,350000,"Video 4K, Tahan Air",6
+418,Speaker Bluetooth Marshall,Marshall,Speaker,400000,"Suara Kualitas Tinggi, Desain Vintage",5
+419,Proyektor Full HD,Epson,Proyektor,700000,"Kualitas Gambar Tinggi, Terang",3
+420,Speaker Portable Sony SRS,Sony,Speaker,100000,"Portabel, Suara Jernih",9
+421,PlayStation 3,Sony,Playstation,300000,"Gaming, Kualitas Grafis Tinggi",7
+422,Tenda Camping 4 Orang,Bestway,Tenda,80000,"Nyaman, Mudah Dipasang",8
+423,Sepatu Sandal,Puma,Sepatu,120000,"Stylish, Nyaman",7
+424,Matras Angin Tidur Double,Intex,Matras,200000,"Nyaman, Kuat",6
+425,Tas Messenger,Louis Vuitton,Tas,800000,"Eksklusif, Desain Mewah",4
+426,Kamera DSLR Nikon,Nikon,Kamera,450000,"Fotografi, Kualitas Tinggi",6
+427,Speaker Bluetooth JBL Flip,JBL,Speaker,200000,"Portabel, Suara Jernih",7
+428,Proyektor 4K,LG,Proyektor,1200000,"Kualitas Gambar UHD, Terang",2
+429,Speaker Portable Marshall,Marshall,Speaker,250000,"Portabel, Suara Kualitas Tinggi",6
+430,PlayStation 2,Sony,Playstation,200000,"Gaming, Kualitas Grafis Tinggi",8
+431,Tenda Camping 6 Orang,Bestway,Tenda,120000,"Nyaman, Mudah Dipasang",6
+432,Sepatu Formal,Clarks,Sepatu,350000,"Elegan, Nyaman",5
+433,Matras Angin Tidur Queen,Intex,Matras,250000,"Nyaman, Kuat",5
+434,Tas Selempang,Coach,Tas,500000,"Tahan Lama, Desain Modern",5
+435,Kamera Mirrorless Fujifilm,Fujifilm,Kamera,400000,"Fotografi, Kualitas Tinggi",6
+436,Speaker Bluetooth Harman Kardon Onyx,Harman Kardon,Speaker,800000,"Suara Kualitas Premium, Desain Mewah",3
+437,Proyektor Mini HD,XGIMI,Proyektor,400000,"Portabel, Kualitas Gambar Tinggi",7
+438,Speaker Portable Bose,Bose,Speaker,350000,"Portabel, Suara Jernih",6
+439,PlayStation 1,Sony,Playstation,100000,"Gaming, Nostalgia",9
+440,Tenda Camping 8 Orang,Bestway,Tenda,150000,"Nyaman, Mudah Dipasang",6
+441,Sepatu Boots,Dr. Martens,Sepatu,600000,"Tahan Lama, Gaya Punk",4
+442,Matras Angin Tidur King,Intex,Matras,350000,"Nyaman, Kuat",4
+443,Tas Tote,Hermes,Tas,1000000,"Mewah, Fungsional",3
+444,Kamera Instax Mini,Fujifilm,Kamera,150000,"Instan, Gaya Retro",5
+445,Speaker Bluetooth JBL Charge,JBL,Speaker,300000,"Portabel, Suara Kualitas Tinggi",7
+446,Proyektor HD Xiaomi,Xiaomi,Proyektor,500000,"Kualitas Gambar Tinggi, Harga Terjangkau",5
+447,Speaker Portable Sony XB,Sony,Speaker,200000,"Portabel, Suara Bass Tinggi",6
+448,PlayStation Portable,Sony,Playstation,200000,"Gaming, Portabel",8
+449,Tenda Camping 10 Orang,Bestway,Tenda,200000,"Nyaman, Mudah Dipasang",5
+450,Sepatu Slip-On,Vans,Sepatu,250000,"Stylish, Nyaman",6
+451,Matras Angin Tidur Single,Bestway,Matras,120000,"Nyaman, Mudah Digunakan",7
+452,Tas Serut,Herschel,Tas,300000,"Kualitas Tinggi, Desain Klasik",6
+453,Kamera Action Yi,Yi,Kamera,200000,"Video 4K, Harga Terjangkau",6
+454,Speaker Bluetooth JBL Clip,JBL,Speaker,150000,"Portabel, Suara Jernih",8
+455,Proyektor Full HD Acer,Acer,Proyektor,700000,"Kualitas Gambar Tinggi, Terang",4
+456,Speaker Portable Ultimate Ears,Ultimate Ears,Speaker,400000,"Portabel, Suara Kualitas Tinggi",5
+457,PlayStation Vita,Sony,Playstation,300000,"Gaming, Portabel",7
+458,Tenda Camping 12 Orang,Bestway,Tenda,250000,"Nyaman, Mudah Dipasang",5
+459,Sepatu High Heels,Jimmy Choo,Sepatu,800000,"Elegan, Stylish",4
+460,Matras Angin Tidur Double,Intex,Matras,200000,"Nyaman, Kuat",6
+461,Tas Ransel Laptop,Tumi,Tas,600000,"Tahan Lama, Fungsional",5
+462,Kamera DSLR Canon,Canon,Kamera,550000,"Fotografi, Kualitas Tinggi",5
+463,Speaker Bluetooth Sony XB,Sony,Speaker,300000,"Portabel, Suara Bass Tinggi",7
+464,Proyektor Mini HD LG,LG,Proyektor,450000,"Portabel, Kualitas Gambar Tinggi",6
+465,Speaker Portable JBL Pulse,JBL,Speaker,350000,"Portabel, Suara Kualitas Tinggi",6
+466,PlayStation Classic,Sony,Playstation,250000,"Gaming, Nostalgia",7
+467,Tenda Camping 4 Orang,Coleman,Tenda,120000,"Nyaman, Mudah Dipasang",8
+468,Sepatu Sneakers,Adidas,Sepatu,300000,"Stylish, Nyaman",6
+469,Matras Angin Tidur Single,Simmons,Matras,150000,"Nyaman, Mudah Digunakan",7
+470,Tas Selempang Polo,Ralph Lauren,Tas,500000,"Tahan Lama, Desain Klasik",5
+471,Kamera Mirrorless Olympus,Olympus,Kamera,450000,"Fotografi, Kualitas Tinggi",5
+472,Speaker Bluetooth Bose SoundLink,Bose,Speaker,500000,"Portabel, Suara Kualitas Tinggi",6
+473,Proyektor HD BenQ,BenQ,Proyektor,600000,"Kualitas Gambar Tinggi, Terang",4
+474,Speaker Portable Ultimate Ears Megaboom,Ultimate Ears,Speaker,500000,"Portabel, Suara Kualitas Tinggi",5
+475,PlayStation VR,Sony,Playstation,700000,"Gaming, Realitas Virtual",3
+476,Tenda Camping 6 Orang,Coleman,Tenda,150000,"Nyaman, Mudah Dipasang",7
+477,Sepatu Loafers,Gucci,Sepatu,800000,"Elegan, Nyaman",4
+478,Matras Angin Tidur King,Simmons,Matras,300000,"Nyaman, Tahan Lama",5
+479,Tas Selempang Fossil,Fossil,Tas,400000,"Tahan Lama, Desain Klasik",6
+480,Kamera Instax Wide,Fujifilm,Kamera,250000,"Instan, Gaya Retro",6
+481,Speaker Bluetooth JBL Boombox,JBL,Speaker,800000,"Portabel, Suara Bass Tinggi",3
+482,Proyektor 4K Sony,Sony,Proyektor,1500000,"Kualitas Gambar UHD, Terang",2
+483,Speaker Portable Bose SoundLink,Bose,Speaker,550000,"Portabel, Suara Kualitas Tinggi",5
+484,PlayStation Move,Sony,Playstation,300000,"Gaming, Pengendalian Gerakan",7
+485,Tenda Camping 8 Orang,Coleman,Tenda,180000,"Nyaman, Mudah Dipasang",7
+486,Sepatu Running,New Balance,Sepatu,350000,"Nyaman, Dukungan Kaki",6
+487,Matras Angin Tidur Queen,Simmons,Matras,350000,"Nyaman, Tahan Lama",4
+488,Tas Tote Gucci,Gucci,Tas,1200000,"Mewah, Desain Klasik",3
+489,Kamera DSLR Pentax,Pentax,Kamera,400000,"Fotografi, Kualitas Tinggi",6
+490,Speaker Bluetooth JBL Xtreme,JBL,Speaker,600000,"Portabel, Suara Bass Tinggi",4
+491,Proyektor HD Xiaomi Mi,Xiaomi,Proyektor,450000,"Kualitas Gambar Tinggi, Harga Terjangkau",5
+492,Speaker Portable Sony SRS-XB,Sony,Speaker,250000,"Portabel, Suara Bass Tinggi",6
+493,PlayStation Slim,Sony,Playstation,400000,"Gaming, Kualitas Grafis Tinggi",5
+494,Tenda Camping 10 Orang,Coleman,Tenda,200000,"Nyaman, Mudah Dipasang",6
+495,Sepatu Sneakers Reebok,Reebok,Sepatu,200000,"Stylish, Nyaman",7
+496,Matras Angin Tidur Single,King Koil,Matras,200000,"Nyaman, Mudah Digunakan",6
+497,Tas Selempang Prada,Prada,Tas,900000,"Mewah, Desain Elegan",4
+498,Kamera Mirrorless Panasonic,Panasonic,Kamera,500000,"Fotografi, Kualitas Tinggi",5
+499,Speaker Bluetooth Ultimate Ears Boom,Ultimate Ears,Speaker,450000,"Portabel, Suara Kualitas Tinggi",6
+500,Proyektor Mini HD LG CineBeam,LG,Proyektor,400000,"Portabel, Kualitas Gambar Tinggi",7
+501,Kamera DSLR Canon EOS 80D,Canon,Kamera,1200000,"Fotografi, Kualitas Tinggi",4
+502,Speaker Bluetooth JBL Flip 5,JBL,Speaker,800000,"Portabel, Suara Bass Tinggi",6
+503,Proyektor HD Epson EB-S41,Epson,Proyektor,600000,"Kualitas Gambar Tinggi, Terang",5
+504,PlayStation 4 Slim,Sony,Playstation,400000,"Gaming, Kualitas Grafis Tinggi",8
+505,Tenda Camping 2 Orang,Coleman,Tenda,100000,"Nyaman, Mudah Dipasang",7
+506,Sepatu Sneakers Adidas Superstar,Adidas,Sepatu,600000,"Stylish, Nyaman",8
+507,Matras Angin Tidur Single,Bestway,Matras,100000,"Nyaman, Mudah Digunakan",6
+508,Tas Selempang Prada,Prada,Tas,1800000,"Mewah, Desain Elegan",4
+509,Kamera Mirrorless Sony Alpha A6400,Sony,Kamera,1600000,"Fotografi, Kualitas Tinggi",5
+510,Speaker Bluetooth Bose SoundLink Revolve,Bose,Speaker,1200000,"Portabel, Suara Kualitas Tinggi",7
+511,Proyektor HD Optoma HD28HDR,Optoma,Proyektor,2500000,"Kualitas Gambar Tinggi, Terang",4
+512,PlayStation 5,Sony,Playstation,500000,"Gaming, Kualitas Grafis Tinggi",7
+513,Tenda Camping 4 Orang,Coleman,Tenda,150000,"Nyaman, Mudah Dipasang",5
+514,Sepatu Sneakers Puma Suede,Puma,Sepatu,400000,"Stylish, Nyaman",7
+515,Matras Angin Tidur Double,Bestway,Matras,200000,"Nyaman, Tahan Lama",6
+516,Tas Selempang Chanel,Chanel,Tas,2500000,"Mewah, Desain Klasik",4
+517,Kamera DSLR Nikon D5600,Nikon,Kamera,800000,"Fotografi, Kualitas Tinggi",4
+518,Speaker Bluetooth JBL Go 2,JBL,Speaker,300000,"Portabel, Suara Kualitas Tinggi",7
+519,Proyektor HD ViewSonic PX701HD,ViewSonic,Proyektor,2000000,"Kualitas Gambar Tinggi, Terang",5
+520,PlayStation 3 Slim,Sony,Playstation,250000,"Gaming, Nostalgia",6
+521,Tenda Camping 6 Orang,Bestway,Tenda,180000,"Nyaman, Mudah Dipasang",6
+522,Sepatu Running Adidas Ultraboost,Adidas,Sepatu,800000,"Nyaman, Dukungan Kaki",8
+523,Matras Angin Tidur Queen,Intex,Matras,250000,"Nyaman, Tahan Lama",6
+524,Tas Selempang Hermes,Hermes,Tas,3000000,"Mewah, Desain Eksklusif",5
+525,Kamera Mirrorless Canon EOS M50,Canon,Kamera,1500000,"Fotografi, Kualitas Tinggi",4
+526,Speaker Bluetooth Sony SRS-XB12,Sony,Speaker,400000,"Portabel, Suara Bass Tinggi",7
+527,Proyektor HD BenQ TH671ST,BenQ,Proyektor,1800000,"Kualitas Gambar Tinggi, Terang",4
+528,PlayStation 2 Fat,Sony,Playstation,200000,"Gaming, Nostalgia",6
+529,Tenda Camping 8 Orang,Bestway,Tenda,220000,"Nyaman, Mudah Dipasang",5
+530,Sepatu Running Nike Air Zoom,Nike,Sepatu,900000,"Nyaman, Dukungan Kaki",8
+531,Matras Angin Tidur Queen,Bestway,Matras,250000,"Nyaman, Tahan Lama",6
+532,Tas Selempang Louis Vuitton Monogram,Louis Vuitton,Tas,2800000,"Mewah, Desain Klasik",4
+533,Kamera DSLR Nikon D750,Nikon,Kamera,1000000,"Fotografi, Kualitas Tinggi",4
+534,Speaker Bluetooth JBL Clip 4,JBL,Speaker,500000,"Portabel, Suara Kualitas Tinggi",7
+535,Proyektor HD Epson EH-TW650,Epson,Proyektor,2300000,"Kualitas Gambar Tinggi, Terang",4
+536,PlayStation 1,Sony,Playstation,150000,"Gaming, Nostalgia",6
+537,Tenda Camping 10 Orang,Coleman,Tenda,300000,"Nyaman, Mudah Dipasang",5
+538,Sepatu Running New Balance 990,New Balance,Sepatu,1000000,"Nyaman, Dukungan Kaki",7
+539,Matras Angin Tidur Double,Intex,Matras,200000,"Nyaman, Tahan Lama",7
+540,Tas Selempang Gucci Marmont,Gucci,Tas,2500000,"Mewah, Desain Elegan",4
+541,Kamera Mirrorless Sony Alpha A7 III,Sony,Kamera,4000000,"Fotografi, Kualitas Tinggi",3
+542,Speaker Bluetooth Bose SoundLink Mini II,Bose,Speaker,2000000,"Portabel, Suara Kualitas Tinggi",6
+543,Proyektor HD Optoma UHD30,Optoma,Proyektor,3500000,"Kualitas Gambar Tinggi, Terang",3
+544,PlayStation Portable (PSP),Sony,Playstation,300000,"Gaming, Portabel",8
+545,Tenda Camping 12 Orang,Bestway,Tenda,350000,"Nyaman, Mudah Dipasang",4
+546,Sepatu Running Adidas Solarboost,Adidas,Sepatu,1200000,"Nyaman, Dukungan Kaki",8
+547,Matras Angin Tidur Queen,Intex,Matras,300000,"Nyaman, Tahan Lama",7
+548,Tas Selempang Burberry Check,Burberry,Tas,2800000,"Mewah, Desain Klasik",5
+549,Kamera Mirrorless Fujifilm X-T3,Fujifilm,Kamera,2800000,"Fotografi, Kualitas Tinggi",4
+550,Speaker Bluetooth Sony SRS-XB43,Sony,Speaker,1000000,"Portabel, Suara Bass Tinggi",7
+551,Proyektor HD ViewSonic PX747-4K,ViewSonic,Proyektor,4000000,"Kualitas Gambar Tinggi, Terang",3
+552,PlayStation Vita,Sony,Playstation,600000,"Gaming, Portabel",8
+553,Tenda Camping 4 Orang,Coleman,Tenda,150000,"Nyaman, Mudah Dipasang",6
+554,Sepatu Sneakers Vans Old Skool,Vans,Sepatu,600000,"Stylish, Nyaman",7
+555,Matras Angin Tidur Single,Bestway,Matras,100000,"Nyaman, Mudah Digunakan",6
+556,Tas Selempang Coach Signature,Coach,Tas,1800000,"Mewah, Desain Elegan",4
+557,Kamera DSLR Nikon D850,Nikon,Kamera,3000000,"Fotografi, Kualitas Tinggi",3
+558,Speaker Bluetooth JBL Charge 4,JBL,Speaker,900000,"Portabel, Suara Kualitas Tinggi",7
+559,Proyektor HD Epson EH-TW5650,Epson,Proyektor,2700000,"Kualitas Gambar Tinggi, Terang",4
+560,PlayStation 4 Pro,Sony,Playstation,4500000,"Gaming, Kualitas Grafis Tinggi",7
+561,Tenda Camping 6 Orang,Bestway,Tenda,180000,"Nyaman, Mudah Dipasang",6
+562,Sepatu Sneakers Nike Air Force 1,Nike,Sepatu,800000,"Stylish, Nyaman",8
+563,Matras Angin Tidur Double,Bestway,Matras,200000,"Nyaman, Tahan Lama",6
+564,Tas Selempang Chanel,Chanel,Tas,2500000,"Mewah, Desain Klasik",4
+565,Kamera Mirrorless Sony Alpha A7R III,Sony,Kamera,5500000,"Fotografi, Kualitas Tinggi",3
+566,Speaker Bluetooth Bose SoundLink Revolve+,Bose,Speaker,2200000,"Portabel, Suara Kualitas Tinggi",7
+567,Proyektor HD BenQ TK850,BenQ,Proyektor,4000000,"Kualitas Gambar Tinggi, Terang",4
+568,PlayStation 3 Super Slim,Sony,Playstation,350000,"Gaming, Nostalgia",6
+569,Tenda Camping 8 Orang,Bestway,Tenda,220000,"Nyaman, Mudah Dipasang",5
+570,Sepatu Running Adidas Ultraboost 21,Adidas,Sepatu,1300000,"Nyaman, Dukungan Kaki",8
+571,Matras Angin Tidur Queen,Bestway,Matras,250000,"Nyaman, Tahan Lama",6
+572,Tas Selempang Louis Vuitton Monogram,Louis Vuitton,Tas,3000000,"Mewah, Desain Klasik",4
+573,Kamera DSLR Canon EOS 5D Mark IV,Canon,Kamera,7000000,"Fotografi, Kualitas Tinggi",4
+574,Speaker Bluetooth JBL Xtreme 3,JBL,Speaker,1500000,"Portabel, Suara Bass Tinggi",7
+575,Proyektor HD Epson EH-TW9400,Epson,Proyektor,6500000,"Kualitas Gambar Tinggi, Terang",4
+576,PlayStation 2 Slim,Sony,Playstation,300000,"Gaming, Nostalgia",6
+577,Tenda Camping 10 Orang,Coleman,Tenda,300000,"Nyaman, Mudah Dipasang",5
+578,Sepatu Running Nike Air Zoom Pegasus,Nike,Sepatu,900000,"Nyaman, Dukungan Kaki",8
+579,Matras Angin Tidur Queen,Intex,Matras,250000,"Nyaman, Tahan Lama",6
+580,Tas Selempang Gucci Marmont,Gucci,Tas,2800000,"Mewah, Desain Elegan",4
+581,Kamera Mirrorless Sony Alpha A7S III,Sony,Kamera,8000000,"Fotografi, Kualitas Tinggi",3
+582,Speaker Bluetooth Bose SoundLink Color II,Bose,Speaker,1800000,"Portabel, Suara Kualitas Tinggi",7
+583,Proyektor HD Optoma UHD50X,Optoma,Proyektor,7500000,"Kualitas Gambar Tinggi, Terang",4
+584,PlayStation 1 Slim,Sony,Playstation,250000,"Gaming, Nostalgia",6
+585,Tenda Camping 12 Orang,Bestway,Tenda,350000,"Nyaman, Mudah Dipasang",4
+586,Sepatu Running Adidas Solarboost 3D,Adidas,Sepatu,1500000,"Nyaman, Dukungan Kaki",8
+587,Matras Angin Tidur Queen,Intex,Matras,300000,"Nyaman, Tahan Lama",7
+588,Tas Selempang Burberry Check,Burberry,Tas,2800000,"Mewah, Desain Klasik",5
+589,Kamera Mirrorless Fujifilm X-T4,Fujifilm,Kamera,5500000,"Fotografi, Kualitas Tinggi",3
+590,Speaker Bluetooth Sony SRS-XB33,Sony,Speaker,1200000,"Portabel, Suara Bass Tinggi",7
+591,Proyektor HD ViewSonic PX727-4K,ViewSonic,Proyektor,4500000,"Kualitas Gambar Tinggi, Terang",4
+592,PlayStation Vita Slim,Sony,Playstation,700000,"Gaming, Portabel",8
+593,Tenda Camping 4 Orang,Coleman,Tenda,150000,"Nyaman, Mudah Dipasang",6
+594,Sepatu Sneakers Vans Authentic,Vans,Sepatu,400000,"Stylish, Nyaman",7
+595,Matras Angin Tidur Single,Bestway,Matras,100000,"Nyaman, Mudah Digunakan",6
+596,Tas Selempang Coach Signature,Coach,Tas,1800000,"Mewah, Desain Elegan",4
+597,Kamera DSLR Nikon D500,Nikon,Kamera,2500000,"Fotografi, Kualitas Tinggi",4
+598,Speaker Bluetooth JBL Flip 4,JBL,Speaker,600000,"Portabel, Suara Kualitas Tinggi",7
+599,Proyektor HD Epson EH-TW7000,Epson,Proyektor,3500000,"Kualitas Gambar Tinggi, Terang",4
+600,PlayStation Classic,Sony,Playstation,400000,"Gaming, Nostalgia",6
+601,Kamera DSLR Canon EOS 6D Mark II,Canon,Kamera,7500000,"Fotografi,Kualitas Tinggi",3
+602,Speaker Bluetooth JBL Flip 5,JBL,Speaker,800000,"Portabel,Suara Kualitas Tinggi",5
+603,Proyektor HD BenQ MH535FHD,BenQ,Proyektor,3500000,"Kualitas Gambar Tinggi, Terang",4
+604,PlayStation 5,Sony,Playstation,6000000,"Gaming,Kualitas Grafis Tinggi",2
+605,Tenda Camping 6 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+606,Sepatu Sneakers Nike Air Max 270,Nike,Sepatu,1200000,"Nyaman,Stylish",8
+607,Matras Angin Tidur Double,Intex,Matras,250000,"Nyaman,Tahan Lama",6
+608,Tas Selempang Prada Nylon,Prada,Tas,3500000,"Mewah,Desain Elegan",3
+609,Kamera Mirrorless Sony Alpha A6400,Sony,Kamera,4500000,"Fotografi,Kualitas Tinggi",4
+610,Speaker Bluetooth Bose SoundLink Micro,Bose,Speaker,900000,"Portabel,Suara Bass Tinggi",6
+611,Proyektor HD Epson EH-TW7100,Epson,Proyektor,4000000,"Kualitas Gambar Tinggi, Terang",3
+612,PlayStation 4 Slim,Sony,Playstation,3500000,"Gaming,Kualitas Grafis Tinggi",4
+613,Tenda Camping 8 Orang,Coleman,Tenda,250000,"Nyaman,Mudah Dipasang",4
+614,Sepatu Running Adidas Ultraboost 20,Adidas,Sepatu,1100000,"Nyaman,Dukungan Kaki",8
+615,Matras Angin Tidur Queen,Intex,Matras,300000,"Nyaman,Tahan Lama",6
+616,Tas Selempang Gucci Dionysus, Gucci,Tas,4000000,"Mewah,Desain Klasik",3
+617,Kamera Mirrorless Fujifilm X-T3,Fujifilm,Kamera,5500000,"Fotografi,Kualitas Tinggi",3
+618,Speaker Bluetooth Sony SRS-XB32,Sony,Speaker,1000000,"Portabel,Suara Bass Tinggi",7
+619,Proyektor HD ViewSonic M1+,ViewSonic,Proyektor,2800000,"Kualitas Gambar Tinggi, Terang",4
+620,PlayStation 3 Slim,Sony,Playstation,3000000,"Gaming,Nostalgia",5
+621,Tenda Camping 10 Orang,Coleman,Tenda,300000,"Nyaman,Mudah Dipasang",5
+622,Sepatu Running Nike Air Zoom Structure,Nike,Sepatu,950000,"Nyaman,Dukungan Kaki",8
+623,Matras Angin Tidur Queen,Intex,Matras,300000,"Nyaman,Tahan Lama",6
+624,Tas Selempang Louis Vuitton Speedy,Louis Vuitton,Tas,3500000,"Mewah,Desain Klasik",4
+625,Kamera DSLR Nikon D750,Nikon,Kamera,4500000,"Fotografi,Kualitas Tinggi",3
+626,Speaker Bluetooth JBL Charge 4,JBL,Speaker,1500000,"Portabel,Suara Kualitas Tinggi",7
+627,Proyektor HD Epson EH-TW9300,Epson,Proyektor,5500000,"Kualitas Gambar Tinggi, Terang",4
+628,PlayStation 2,Sony,Playstation,250000,"Gaming,Nostalgia",6
+629,Tenda Camping 12 Orang,Bestway,Tenda,350000,"Nyaman,Mudah Dipasang",4
+630,Sepatu Sneakers Converse Chuck Taylor,Converse,Sepatu,600000,"Stylish,Nyaman",7
+631,Matras Angin Tidur Single,Bestway,Matras,100000,"Nyaman,Mudah Digunakan",6
+632,Tas Selempang Hermes Kelly,Hermes,Tas,4500000,"Mewah,Desain Elegan",3
+633,Kamera Mirrorless Sony Alpha A7C,Sony,Kamera,6500000,"Fotografi,Kualitas Tinggi",3
+634,Speaker Bluetooth Sony SRS-XB23,Sony,Speaker,800000,"Portabel,Suara Bass Tinggi",7
+635,Proyektor HD Optoma HD27E,Optoma,Proyektor,3000000,"Kualitas Gambar Tinggi, Terang",4
+636,PlayStation Vita,Sony,Playstation,1000000,"Gaming,Portabel",7
+637,Tenda Camping 4 Orang,Coleman,Tenda,150000,"Nyaman,Mudah Dipasang",6
+638,Sepatu Sneakers Puma RS-X,Puma,Sepatu,700000,"Stylish,Nyaman",8
+639,Matras Angin Tidur Double,Intex,Matras,250000,"Nyaman,Tahan Lama",6
+640,Tas Selempang Chanel Classic Flap,Chanel,Tas,5500000,"Mewah,Desain Klasik",4
+641,Kamera DSLR Canon EOS 5D Mark IV,Canon,Kamera,12000000,"Fotografi,Kualitas Tinggi",2
+642,Speaker Bluetooth Bose SoundLink Revolve,Bose,Speaker,2000000,"Portabel,Suara Kualitas Tinggi",6
+643,Proyektor HD BenQ TK800M,BenQ,Proyektor,6000000,"Kualitas Gambar Tinggi, Terang",3
+644,PlayStation 5 Digital Edition,Sony,Playstation,5500000,"Gaming,Kualitas Grafis Tinggi",2
+645,Tenda Camping 6 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+646,Sepatu Sneakers Nike Air Force 1,Nike,Sepatu,900000,"Stylish,Nyaman",8
+647,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Mudah Digunakan",6
+648,Tas Selempang Gucci GG Marmont,Gucci,Tas,3200000,"Mewah,Desain Elegan",3
+649,Kamera Mirrorless Fujifilm X-T30,Fujifilm,Kamera,3500000,"Fotografi,Kualitas Tinggi",4
+650,Speaker Bluetooth Sony SRS-XB12,Sony,Speaker,500000,"Portabel,Suara Bass Tinggi",7
+651,Proyektor HD Epson EH-TW7100,Epson,Proyektor,4000000,"Kualitas Gambar Tinggi, Terang",3
+652,PlayStation 4 Slim,Sony,Playstation,3500000,"Gaming,Kualitas Grafis Tinggi",4
+653,Tenda Camping 8 Orang,Coleman,Tenda,250000,"Nyaman,Mudah Dipasang",4
+654,Sepatu Running Adidas Ultraboost 20,Adidas,Sepatu,1100000,"Nyaman,Dukungan Kaki",8
+655,Matras Angin Tidur Queen,Intex,Matras,300000,"Nyaman,Tahan Lama",6
+656,Tas Selempang Louis Vuitton Neverfull,Louis Vuitton,Tas,4200000,"Mewah,Desain Klasik",3
+657,Kamera Mirrorless Sony Alpha A6400,Sony,Kamera,4500000,"Fotografi,Kualitas Tinggi",4
+658,Speaker Bluetooth JBL Flip 5,JBL,Speaker,800000,"Portabel,Suara Kualitas Tinggi",5
+659,Proyektor HD BenQ MH535FHD,BenQ,Proyektor,3500000,"Kualitas Gambar Tinggi, Terang",4
+660,PlayStation 5,Sony,Playstation,6000000,"Gaming,Kualitas Grafis Tinggi",2
+661,Tenda Camping 6 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+662,Sepatu Sneakers Nike Air Max 270,Nike,Sepatu,1200000,"Nyaman,Stylish",8
+663,Matras Angin Tidur Double,Intex,Matras,250000,"Nyaman,Tahan Lama",6
+664,Tas Selempang Prada Nylon,Prada,Tas,3500000,"Mewah,Desain Elegan",3
+665,Kamera Mirrorless Sony Alpha A6400,Sony,Kamera,4500000,"Fotografi,Kualitas Tinggi",4
+666,Speaker Bluetooth JBL Charge 4,JBL,Speaker,1500000,"Portabel,Suara Kualitas Tinggi",7
+667,Proyektor HD Epson EH-TW9300,Epson,Proyektor,5500000,"Kualitas Gambar Tinggi, Terang",4
+668,PlayStation 4 Slim,Sony,Playstation,3500000,"Gaming,Kualitas Grafis Tinggi",4
+669,Tenda Camping 8 Orang,Coleman,Tenda,250000,"Nyaman,Mudah Dipasang",4
+670,Sepatu Running Adidas Ultraboost 20,Adidas,Sepatu,1100000,"Nyaman,Dukungan Kaki",8
+671,Matras Angin Tidur Queen,Intex,Matras,300000,"Nyaman,Tahan Lama",6
+672,Tas Selempang Louis Vuitton Speedy,Louis Vuitton,Tas,3500000,"Mewah,Desain Klasik",3
+673,Kamera Mirrorless Fujifilm X-T3,Fujifilm,Kamera,5500000,"Fotografi,Kualitas Tinggi",3
+674,Speaker Bluetooth Sony SRS-XB23,Sony,Speaker,800000,"Portabel,Suara Bass Tinggi",7
+675,Proyektor HD ViewSonic M1+,ViewSonic,Proyektor,2800000,"Kualitas Gambar Tinggi, Terang",4
+676,PlayStation 3 Slim,Sony,Playstation,3000000,"Gaming,Nostalgia",5
+677,Tenda Camping 10 Orang,Coleman,Tenda,300000,"Nyaman,Mudah Dipasang",5
+678,Sepatu Running Nike Air Zoom Structure,Nike,Sepatu,950000,"Nyaman,Dukungan Kaki",8
+679,Matras Angin Tidur Queen,Intex,Matras,300000,"Nyaman,Tahan Lama",6
+680,Tas Selempang Gucci Dionysus,Gucci,Tas,4000000,"Mewah,Desain Klasik",3
+681,Kamera Mirrorless Sony Alpha A7C,Sony,Kamera,6500000,"Fotografi,Kualitas Tinggi",3
+682,Speaker Bluetooth Sony SRS-XB12,Sony,Speaker,500000,"Portabel,Suara Bass Tinggi",7
+683,Proyektor HD Epson EH-TW7100,Epson,Proyektor,4000000,"Kualitas Gambar Tinggi, Terang",3
+684,PlayStation 4 Slim,Sony,Playstation,3500000,"Gaming,Kualitas Grafis Tinggi",4
+685,Tenda Camping 8 Orang,Coleman,Tenda,250000,"Nyaman,Mudah Dipasang",4
+686,Sepatu Running Adidas Ultraboost 20,Adidas,Sepatu,1100000,"Nyaman,Dukungan Kaki",8
+687,Matras Angin Tidur Queen,Intex,Matras,300000,"Nyaman,Tahan Lama",6
+688,Tas Selempang Louis Vuitton Neverfull,Louis Vuitton,Tas,4200000,"Mewah,Desain Klasik",3
+689,Kamera Mirrorless Sony Alpha A6400,Sony,Kamera,4500000,"Fotografi,Kualitas Tinggi",4
+690,Speaker Bluetooth JBL Flip 5,JBL,Speaker,800000,"Portabel,Suara Kualitas Tinggi",5
+691,Proyektor HD BenQ MH535FHD,BenQ,Proyektor,3500000,"Kualitas Gambar Tinggi, Terang",4
+692,PlayStation 5,Sony,Playstation,6000000,"Gaming,Kualitas Grafis Tinggi",2
+693,Tenda Camping 6 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+694,Sepatu Sneakers Nike Air Max 270,Nike,Sepatu,1200000,"Nyaman,Stylish",8
+695,Matras Angin Tidur Double,Intex,Matras,250000,"Nyaman,Tahan Lama",6
+696,Tas Selempang Prada Nylon,Prada,Tas,3500000,"Mewah,Desain Elegan",3
+697,Kamera Mirrorless Sony Alpha A6400,Sony,Kamera,4500000,"Fotografi,Kualitas Tinggi",4
+698,Speaker Bluetooth JBL Charge 4,JBL,Speaker,1500000,"Portabel,Suara Kualitas Tinggi",7
+699,Proyektor HD Epson EH-TW9300,Epson,Proyektor,5500000,"Kualitas Gambar Tinggi, Terang",4
+700,PlayStation 4 Slim,Sony,Playstation,3500000,"Gaming,Kualitas Grafis Tinggi",4
+701,Kamera Mirrorless Canon EOS M50,Canon,Camera,5000000,"Fotografi,Kualitas Tinggi",3
+702,Speaker Bluetooth Bose SoundLink Mini,Bose,Speaker,2500000,"Portabel,Suara Kualitas Tinggi",5
+703,Proyektor HD Optoma HD146X,Optoma,Proyektor,4500000,"Kualitas Gambar Tinggi, Terang",4
+704,PlayStation 5,Sony,Playstation,6000000,"Gaming,Kualitas Grafis Tinggi",2
+705,Tenda Camping 4 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+706,Sepatu Hiking Columbia Peakfreak Venture Mid,Columbia,Sepatu,900000,"Nyaman,Tahan Lama",7
+707,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+708,Tas Camping The North Face Terra,TNF,Tas Camping,800000,"Tahan Air,Tahan Lama",6
+709,Kamera DSLR Nikon D5600,Nikon,Camera,5500000,"Fotografi,Kualitas Tinggi",3
+710,Speaker Bluetooth Harman Kardon Onyx Studio 6,Harman Kardon,Speaker,3500000,"Portabel,Suara Bass Tinggi",4
+711,Proyektor HD Epson EH-TW570,Epson,Proyektor,3500000,"Kualitas Gambar Tinggi, Terang",4
+712,PlayStation 4 Slim,Sony,Playstation,3500000,"Gaming,Kualitas Grafis Tinggi",4
+713,Tenda Camping 8 Orang,Coleman,Tenda,250000,"Nyaman,Mudah Dipasang",4
+714,Sepatu Hiking Merrell Moab 2 Mid,Merrell,Sepatu,1100000,"Nyaman,Tahan Lama",8
+715,Matras Angin Tidur Double,Intex,Matras,250000,"Nyaman,Tahan Lama",6
+716,Tas Camping Deuter Aircontact Lite 40+10,Deuter,Tas Camping,1700000,"Tahan Air,Tahan Lama",5
+717,Kamera Mirrorless Sony Alpha A7 III,Sony,Camera,10000000,"Fotografi,Kualitas Tinggi",2
+718,Speaker Bluetooth JBL Xtreme 2,JBL,Speaker,3000000,"Portabel,Suara Kualitas Tinggi",4
+719,Proyektor HD ViewSonic PA503X,ViewSonic,Proyektor,3000000,"Kualitas Gambar Tinggi, Terang",5
+720,PlayStation 5,Sony,Playstation,6000000,"Gaming,Kualitas Grafis Tinggi",2
+721,Tenda Camping 6 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+722,Sepatu Hiking Salomon X Ultra 3 Mid,Salomon,Sepatu,1300000,"Nyaman,Tahan Lama",7
+723,Matras Angin Tidur Queen,Intex,Matras,300000,"Nyaman,Tahan Lama",6
+724,Tas Camping Osprey Stratos 34,Osprey,Tas Camping,1600000,"Tahan Air,Tahan Lama",5
+725,Kamera Mirrorless Fujifilm X-T4,Fujifilm,Camera,7000000,"Fotografi,Kualitas Tinggi",3
+726,Speaker Bluetooth Marshall Kilburn II,Marshall,Speaker,4000000,"Portabel,Suara Bass Tinggi",3
+727,Proyektor HD BenQ MS535A,BenQ,Proyektor,2500000,"Kualitas Gambar Tinggi, Terang",6
+728,PlayStation 4 Slim,Sony,Playstation,3500000,"Gaming,Kualitas Grafis Tinggi",4
+729,Tenda Camping 4 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+730,Sepatu Hiking Keen Targhee III Mid,Keen,Sepatu,1200000,"Nyaman,Tahan Lama",7
+731,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+732,Tas Camping Patagonia Black Hole 32,Patagonia,Tas Camping,1200000,"Tahan Air,Tahan Lama",8
+733,Kamera Mirrorless Canon EOS R6,Canon,Camera,12000000,"Fotografi,Kualitas Tinggi",2
+734,Speaker Bluetooth Sony SRS-XB43,Sony,Speaker,3500000,"Portabel,Suara Kualitas Tinggi",5
+735,Proyektor HD Epson EH-TW7000,Epson,Proyektor,5000000,"Kualitas Gambar Tinggi, Terang",3
+736,PlayStation 5,Sony,Playstation,6000000,"Gaming,Kualitas Grafis Tinggi",2
+737,Tenda Camping 8 Orang,Coleman,Tenda,250000,"Nyaman,Mudah Dipasang",4
+738,Sepatu Hiking Columbia Redmond Mid,Columbia,Sepatu,950000,"Nyaman,Tahan Lama",8
+739,Matras Angin Tidur Double,Intex,Matras,250000,"Nyaman,Tahan Lama",6
+740,Tas Camping The North Face Base Camp,TNF,Tas Camping,900000,"Tahan Air,Tahan Lama",7
+741,Kamera DSLR Nikon D7500,Nikon,Camera,7500000,"Fotografi,Kualitas Tinggi",3
+742,Speaker Bluetooth Harman Kardon Go+Play,Harman Kardon,Speaker,4000000,"Portabel,Suara Bass Tinggi",4
+743,Proyektor HD Optoma HD39HDR,Optoma,Proyektor,5500000,"Kualitas Gambar Tinggi, Terang",4
+744,PlayStation 4 Slim,Sony,Playstation,3500000,"Gaming,Kualitas Grafis Tinggi",4
+745,Tenda Camping 6 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+746,Sepatu Hiking Merrell Moab 2 Mid,Merrell,Sepatu,1100000,"Nyaman,Tahan Lama",8
+747,Matras Angin Tidur Queen,Intex,Matras,300000,"Nyaman,Tahan Lama",6
+748,Tas Camping Deuter Aircontact Lite 40+10,Deuter,Tas Camping,1700000,"Tahan Air,Tahan Lama",5
+749,Kamera Mirrorless Sony Alpha A7 III,Sony,Camera,10000000,"Fotografi,Kualitas Tinggi",2
+750,Speaker Bluetooth JBL Xtreme 2,JBL,Speaker,3000000,"Portabel,Suara Kualitas Tinggi",4
+751,Proyektor HD ViewSonic PA503X,ViewSonic,Proyektor,3000000,"Kualitas Gambar Tinggi, Terang",5
+752,PlayStation 5,Sony,Playstation,6000000,"Gaming,Kualitas Grafis Tinggi",2
+753,Tenda Camping 4 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+754,Sepatu Hiking Salomon X Ultra 3 Mid,Salomon,Sepatu,1300000,"Nyaman,Tahan Lama",7
+755,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+756,Tas Camping Osprey Stratos 34,Osprey,Tas Camping,1600000,"Tahan Air,Tahan Lama",5
+757,Kamera Mirrorless Fujifilm X-T4,Fujifilm,Camera,7000000,"Fotografi,Kualitas Tinggi",3
+758,Speaker Bluetooth Marshall Kilburn II,Marshall,Speaker,4000000,"Portabel,Suara Bass Tinggi",3
+759,Proyektor HD BenQ MS535A,BenQ,Proyektor,2500000,"Kualitas Gambar Tinggi, Terang",6
+760,PlayStation 4 Slim,Sony,Playstation,3500000,"Gaming,Kualitas Grafis Tinggi",4
+761,Tenda Camping 8 Orang,Coleman,Tenda,250000,"Nyaman,Mudah Dipasang",4
+762,Sepatu Hiking Keen Targhee III Mid,Keen,Sepatu,1200000,"Nyaman,Tahan Lama",7
+763,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+764,Tas Camping Patagonia Black Hole 32,Patagonia,Tas Camping,1200000,"Tahan Air,Tahan Lama",8
+765,Kamera Mirrorless Canon EOS R6,Canon,Camera,12000000,"Fotografi,Kualitas Tinggi",2
+766,Speaker Bluetooth Sony SRS-XB43,Sony,Speaker,3500000,"Portabel,Suara Kualitas Tinggi",5
+767,Proyektor HD Epson EH-TW7000,Epson,Proyektor,5000000,"Kualitas Gambar Tinggi, Terang",3
+768,PlayStation 5,Sony,Playstation,6000000,"Gaming,Kualitas Grafis Tinggi",2
+769,Tenda Camping 8 Orang,Coleman,Tenda,250000,"Nyaman,Mudah Dipasang",4
+770,Sepatu Hiking Columbia Redmond Mid,Columbia,Sepatu,950000,"Nyaman,Tahan Lama",8
+771,Matras Angin Tidur Double,Intex,Matras,250000,"Nyaman,Tahan Lama",6
+772,Tas Camping The North Face Base Camp,TNF,Tas Camping,900000,"Tahan Air,Tahan Lama",7
+773,Kamera DSLR Nikon D7500,Nikon,Camera,7500000,"Fotografi,Kualitas Tinggi",3
+774,Speaker Bluetooth Harman Kardon Go+Play,Harman Kardon,Speaker,4000000,"Portabel,Suara Bass Tinggi",4
+775,Proyektor HD Optoma HD39HDR,Optoma,Proyektor,5500000,"Kualitas Gambar Tinggi, Terang",4
+776,PlayStation 4 Slim,Sony,Playstation,3500000,"Gaming,Kualitas Grafis Tinggi",4
+777,Tenda Camping 6 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+778,Sepatu Hiking Merrell Moab 2 Mid,Merrell,Sepatu,1100000,"Nyaman,Tahan Lama",8
+779,Matras Angin Tidur Queen,Intex,Matras,300000,"Nyaman,Tahan Lama",6
+780,Tas Camping Deuter Aircontact Lite 40+10,Deuter,Tas Camping,1700000,"Tahan Air,Tahan Lama",5
+781,Kamera Mirrorless Sony Alpha A7 III,Sony,Camera,10000000,"Fotografi,Kualitas Tinggi",2
+782,Speaker Bluetooth JBL Xtreme 2,JBL,Speaker,3000000,"Portabel,Suara Kualitas Tinggi",4
+783,Proyektor HD ViewSonic PA503X,ViewSonic,Proyektor,3000000,"Kualitas Gambar Tinggi, Terang",5
+784,PlayStation 5,Sony,Playstation,6000000,"Gaming,Kualitas Grafis Tinggi",2
+785,Tenda Camping 4 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+786,Sepatu Hiking Salomon X Ultra 3 Mid,Salomon,Sepatu,1300000,"Nyaman,Tahan Lama",7
+787,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+788,Tas Camping Osprey Stratos 34,Osprey,Tas Camping,1600000,"Tahan Air,Tahan Lama",5
+789,Kamera Mirrorless Fujifilm X-T4,Fujifilm,Camera,7000000,"Fotografi,Kualitas Tinggi",3
+790,Speaker Bluetooth Marshall Kilburn II,Marshall,Speaker,4000000,"Portabel,Suara Bass Tinggi",3
+791,Proyektor HD BenQ MS535A,BenQ,Proyektor,2500000,"Kualitas Gambar Tinggi, Terang",6
+792,PlayStation 4 Slim,Sony,Playstation,3500000,"Gaming,Kualitas Grafis Tinggi",4
+793,Tenda Camping 8 Orang,Coleman,Tenda,250000,"Nyaman,Mudah Dipasang",4
+794,Sepatu Hiking Keen Targhee III Mid,Keen,Sepatu,1200000,"Nyaman,Tahan Lama",7
+795,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+796,Tas Camping Patagonia Black Hole 32,Patagonia,Tas Camping,1200000,"Tahan Air,Tahan Lama",8
+797,Kamera Mirrorless Canon EOS R6,Canon,Camera,12000000,"Fotografi,Kualitas Tinggi",2
+798,Speaker Bluetooth Sony SRS-XB43,Sony,Speaker,3500000,"Portabel,Suara Kualitas Tinggi",5
+799,Proyektor HD Epson EH-TW7000,Epson,Proyektor,5000000,"Kualitas Gambar Tinggi, Terang",3
+800,PlayStation 5,Sony,Playstation,6000000,"Gaming,Kualitas Grafis Tinggi",2
+801,Kamera DSLR Canon EOS 6D Mark II,Canon,Camera,9000000,"Fotografi,Kualitas Tinggi",3
+802,Speaker Bluetooth JBL Flip 5,JBL,Speaker,1500000,"Portabel,Suara Bass Tinggi",5
+803,Proyektor HD Optoma HD28HDR,Optoma,Proyektor,4000000,"Kualitas Gambar Tinggi, Terang",4
+804,PlayStation 5 Digital Edition,Sony,Playstation,5500000,"Gaming,Kualitas Grafis Tinggi",2
+805,Tenda Camping 6 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+806,Sepatu Running Nike Air Zoom Pegasus 38,Nike,Sepatu,1600000,"Nyaman,Atletik",9
+807,Matras Angin Tidur Double,Intex,Matras,250000,"Nyaman,Tahan Lama",7
+808,Tas Camping Deuter Aircontact Lite 40+10,Deuter,Tas Camping,1700000,"Tahan Air,Tahan Lama",5
+809,Kamera Mirrorless Sony Alpha A6400,Sony,Camera,7000000,"Fotografi,Kualitas Tinggi",3
+810,Speaker Bluetooth Harman Kardon Onyx Studio 6,Harman Kardon,Speaker,5000000,"Portabel,Suara Kualitas Tinggi",2
+811,Proyektor HD BenQ TK800M,BenQ,Proyektor,4500000,"Kualitas Gambar Tinggi, Terang",6
+812,PlayStation 4 Pro,Sony,Playstation,4000000,"Gaming,Kualitas Grafis Tinggi",3
+813,Tenda Camping 4 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+814,Sepatu Running Adidas Ultraboost 21,Adidas,Sepatu,1800000,"Nyaman,Atletik",8
+815,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+816,Tas Camping The North Face Terra 55,TNF,Tas Camping,1900000,"Tahan Air,Tahan Lama",6
+817,Kamera DSLR Nikon D850,Nikon,Camera,12000000,"Fotografi,Kualitas Tinggi",2
+818,Speaker Bluetooth Bose SoundLink Revolve,Bose,Speaker,3000000,"Portabel,Suara Kualitas Tinggi",5
+819,Proyektor HD Epson EH-TW6700,Epson,Proyektor,5500000,"Kualitas Gambar Tinggi, Terang",4
+820,PlayStation 5 Digital Edition,Sony,Playstation,5500000,"Gaming,Kualitas Grafis Tinggi",2
+821,Tenda Camping 8 Orang,Coleman,Tenda,250000,"Nyaman,Mudah Dipasang",4
+822,Sepatu Running New Balance Fresh Foam 1080 V11,New Balance,Sepatu,1700000,"Nyaman,Atletik",7
+823,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+824,Tas Camping Osprey Atmos AG 50,Osprey,Tas Camping,2300000,"Tahan Air,Tahan Lama",6
+825,Kamera Mirrorless Fujifilm X-T30,Fujifilm,Camera,6000000,"Fotografi,Kualitas Tinggi",3
+826,Speaker Bluetooth Sony SRS-XB33,Sony,Speaker,2500000,"Portabel,Suara Kualitas Tinggi",4
+827,Proyektor HD ViewSonic PX701-4K,ViewSonic,Proyektor,6000000,"Kualitas Gambar Tinggi, Terang",5
+828,PlayStation 4 Pro,Sony,Playstation,4000000,"Gaming,Kualitas Grafis Tinggi",3
+829,Tenda Camping 6 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+830,Sepatu Running ASICS GEL-Kayano 28,ASICS,Sepatu,1900000,"Nyaman,Atletik",8
+831,Matras Angin Tidur Double,Intex,Matras,250000,"Nyaman,Tahan Lama",7
+832,Tas Camping Black Diamond Creek 35,Black Diamond,Tas Camping,1800000,"Tahan Air,Tahan Lama",5
+833,Kamera Mirrorless Canon EOS R5,Canon,Camera,15000000,"Fotografi,Kualitas Tinggi",2
+834,Speaker Bluetooth JBL Charge 4,JBL,Speaker,2000000,"Portabel,Suara Bass Tinggi",5
+835,Proyektor HD Optoma HD146X,Optoma,Proyektor,3000000,"Kualitas Gambar Tinggi, Terang",6
+836,PlayStation 5 Digital Edition,Sony,Playstation,5500000,"Gaming,Kualitas Grafis Tinggi",2
+837,Tenda Camping 4 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+838,Sepatu Running Brooks Ghost 14,Brooks,Sepatu,1600000,"Nyaman,Atletik",9
+839,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+840,Tas Camping Deuter Futura Vario 50+10,Deuter,Tas Camping,2100000,"Tahan Air,Tahan Lama",6
+841,Kamera Mirrorless Sony Alpha A7S III,Sony,Camera,17000000,"Fotografi,Kualitas Tinggi",3
+842,Speaker Bluetooth Ultimate Ears BOOM 3,Ultimate Ears,Speaker,2500000,"Portabel,Suara Kualitas Tinggi",4
+843,Proyektor HD BenQ MW526AE,BenQ,Proyektor,2500000,"Kualitas Gambar Tinggi, Terang",6
+844,PlayStation 4 Pro,Sony,Playstation,4000000,"Gaming,Kualitas Grafis Tinggi",3
+845,Tenda Camping 8 Orang,Coleman,Tenda,250000,"Nyaman,Mudah Dipasang",4
+846,Sepatu Running Hoka One One Clifton 8,Hoka One One,Sepatu,1800000,"Nyaman,Atletik",8
+847,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+848,Tas Camping Gregory Baltoro 65,Gregory,Tas Camping,2400000,"Tahan Air,Tahan Lama",5
+849,Kamera DSLR Nikon D750,Nikon,Camera,10000000,"Fotografi,Kualitas Tinggi",2
+850,Speaker Bluetooth Marshall Kilburn II,Marshall,Speaker,3500000,"Portabel,Suara Kualitas Tinggi",5
+851,Proyektor HD Epson EH-TW7100,Epson,Proyektor,6000000,"Kualitas Gambar Tinggi, Terang",4
+852,PlayStation 5 Digital Edition,Sony,Playstation,5500000,"Gaming,Kualitas Grafis Tinggi",2
+853,Tenda Camping 6 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+854,Sepatu Running Salomon Speedcross 5,Salomon,Sepatu,2000000,"Nyaman,Atletik",7
+855,Matras Angin Tidur Double,Intex,Matras,250000,"Nyaman,Tahan Lama",7
+856,Tas Camping Deuter ACT Lite 40+10,Deuter,Tas Camping,1800000,"Tahan Air,Tahan Lama",5
+857,Kamera Mirrorless Fujifilm X-T4,Fujifilm,Camera,8000000,"Fotografi,Kualitas Tinggi",3
+858,Speaker Bluetooth Sony SRS-XB43,Sony,Speaker,3000000,"Portabel,Suara Kualitas Tinggi",4
+859,Proyektor HD ViewSonic PX747-4K,ViewSonic,Proyektor,6500000,"Kualitas Gambar Tinggi, Terang",3
+860,PlayStation 4 Pro,Sony,Playstation,4000000,"Gaming,Kualitas Grafis Tinggi",3
+861,Tenda Camping 4 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+862,Sepatu Running Nike Air Zoom Alphafly Next%,Nike,Sepatu,2700000,"Nyaman,Atletik",6
+863,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+864,Tas Camping Black Diamond Distance 15,Black Diamond,Tas Camping,1700000,"Tahan Air,Tahan Lama",5
+865,Kamera Mirrorless Canon EOS R6,Canon,Camera,10000000,"Fotografi,Kualitas Tinggi",2
+866,Speaker Bluetooth JBL Xtreme 3,JBL,Speaker,3000000,"Portabel,Suara Bass Tinggi",5
+867,Proyektor HD Optoma HD28HDR,Optoma,Proyektor,4000000,"Kualitas Gambar Tinggi, Terang",4
+868,PlayStation 5 Digital Edition,Sony,Playstation,5500000,"Gaming,Kualitas Grafis Tinggi",2
+869,Tenda Camping 8 Orang,Coleman,Tenda,250000,"Nyaman,Mudah Dipasang",4
+870,Sepatu Running Adidas Adizero Adios 6,Adidas,Sepatu,1800000,"Nyaman,Atletik",8
+871,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+872,Tas Camping Deuter Aircontact Lite 40+10,Deuter,Tas Camping,1700000,"Tahan Air,Tahan Lama",5
+873,Kamera DSLR Nikon D850,Nikon,Camera,12000000,"Fotografi,Kualitas Tinggi",2
+874,Speaker Bluetooth Bose SoundLink Revolve,Bose,Speaker,3000000,"Portabel,Suara Kualitas Tinggi",5
+875,Proyektor HD Epson EH-TW6700,Epson,Proyektor,5500000,"Kualitas Gambar Tinggi, Terang",4
+876,PlayStation 5 Digital Edition,Sony,Playstation,5500000,"Gaming,Kualitas Grafis Tinggi",2
+877,Tenda Camping 6 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+878,Sepatu Running ASICS GEL-Kayano 28,ASICS,Sepatu,1900000,"Nyaman,Atletik",8
+879,Matras Angin Tidur Double,Intex,Matras,250000,"Nyaman,Tahan Lama",7
+880,Tas Camping The North Face Terra 55,TNF,Tas Camping,1900000,"Tahan Air,Tahan Lama",6
+881,Kamera Mirrorless Sony Alpha A7 III,Sony,Camera,9000000,"Fotografi,Kualitas Tinggi",3
+882,Speaker Bluetooth JBL Charge 4,JBL,Speaker,2000000,"Portabel,Suara Bass Tinggi",5
+883,Proyektor HD Optoma HD146X,Optoma,Proyektor,3000000,"Kualitas Gambar Tinggi, Terang",6
+884,PlayStation 4 Pro,Sony,Playstation,4000000,"Gaming,Kualitas Grafis Tinggi",3
+885,Tenda Camping 4 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+886,Sepatu Running Brooks Ghost 14,Brooks,Sepatu,1600000,"Nyaman,Atletik",9
+887,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+888,Tas Camping Deuter Futura Vario 50+10,Deuter,Tas Camping,2100000,"Tahan Air,Tahan Lama",6
+889,Kamera Mirrorless Sony Alpha A7R IV,Sony,Camera,20000000,"Fotografi,Kualitas Tinggi",2
+890,Speaker Bluetooth Ultimate Ears BOOM 3,Ultimate Ears,Speaker,2500000,"Portabel,Suara Kualitas Tinggi",4
+891,Proyektor HD BenQ MW526AE,BenQ,Proyektor,2500000,"Kualitas Gambar Tinggi, Terang",6
+892,PlayStation 5 Digital Edition,Sony,Playstation,5500000,"Gaming,Kualitas Grafis Tinggi",2
+893,Tenda Camping 8 Orang,Coleman,Tenda,250000,"Nyaman,Mudah Dipasang",4
+894,Sepatu Running Hoka One One Clifton 8,Hoka One One,Sepatu,1800000,"Nyaman,Atletik",8
+895,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+896,Tas Camping Gregory Baltoro 65,Gregory,Tas Camping,2400000,"Tahan Air,Tahan Lama",5
+897,Kamera DSLR Nikon D750,Nikon,Camera,10000000,"Fotografi,Kualitas Tinggi",2
+898,Speaker Bluetooth Marshall Kilburn II,Marshall,Speaker,3500000,"Portabel,Suara Kualitas Tinggi",5
+899,Proyektor HD Epson EH-TW7100,Epson,Proyektor,6000000,"Kualitas Gambar Tinggi, Terang",4
+900,PlayStation 5 Digital Edition,Sony,Playstation,5500000,"Gaming,Kualitas Grafis Tinggi",2
+901,Kamera Mirrorless Canon EOS R6,Canon,Camera,10000000,"Fotografi,Kualitas Tinggi",2
+902,Speaker Bluetooth JBL Xtreme 3,JBL,Speaker,3000000,"Portabel,Suara Bass Tinggi",5
+903,Proyektor HD Optoma HD28HDR,Optoma,Proyektor,4000000,"Kualitas Gambar Tinggi, Terang",4
+904,PlayStation 5 Digital Edition,Sony,Playstation,5500000,"Gaming,Kualitas Grafis Tinggi",2
+905,Tenda Camping 6 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+906,Sepatu Running Adidas Adizero Adios 6,Adidas,Sepatu,1800000,"Nyaman,Atletik",8
+907,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+908,Tas Camping Deuter Aircontact Lite 40+10,Deuter,Tas Camping,1700000,"Tahan Air,Tahan Lama",5
+909,Kamera Mirrorless Fujifilm X-T4,Fujifilm,Camera,8000000,"Fotografi,Kualitas Tinggi",3
+910,Speaker Bluetooth Sony SRS-XB43,Sony,Speaker,3000000,"Portabel,Suara Kualitas Tinggi",4
+911,Proyektor HD ViewSonic PX747-4K,ViewSonic,Proyektor,6500000,"Kualitas Gambar Tinggi, Terang",3
+912,PlayStation 4 Pro,Sony,Playstation,4000000,"Gaming,Kualitas Grafis Tinggi",3
+913,Tenda Camping 4 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+914,Sepatu Running Nike Air Zoom Alphafly Next%,Nike,Sepatu,2700000,"Nyaman,Atletik",6
+915,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+916,Tas Camping Black Diamond Distance 15,Black Diamond,Tas Camping,1700000,"Tahan Air,Tahan Lama",5
+917,Kamera Mirrorless Canon EOS R6,Canon,Camera,10000000,"Fotografi,Kualitas Tinggi",2
+918,Speaker Bluetooth JBL Xtreme 3,JBL,Speaker,3000000,"Portabel,Suara Bass Tinggi",5
+919,Proyektor HD Optoma HD146X,Optoma,Proyektor,4000000,"Kualitas Gambar Tinggi, Terang",4
+920,PlayStation 5 Digital Edition,Sony,Playstation,5500000,"Gaming,Kualitas Grafis Tinggi",2
+921,Tenda Camping 8 Orang,Coleman,Tenda,250000,"Nyaman,Mudah Dipasang",4
+922,Sepatu Running ASICS GEL-Kayano 28,ASICS,Sepatu,1900000,"Nyaman,Atletik",8
+923,Matras Angin Tidur Double,Intex,Matras,250000,"Nyaman,Tahan Lama",7
+924,Tas Camping Deuter Futura Vario 50+10,Deuter,Tas Camping,2100000,"Tahan Air,Tahan Lama",6
+925,Kamera Mirrorless Fujifilm X-T4,Fujifilm,Camera,8000000,"Fotografi,Kualitas Tinggi",3
+926,Speaker Bluetooth Sony SRS-XB43,Sony,Speaker,3000000,"Portabel,Suara Kualitas Tinggi",4
+927,Proyektor HD Epson EH-TW7100,Epson,Proyektor,6000000,"Kualitas Gambar Tinggi, Terang",4
+928,PlayStation 4 Pro,Sony,Playstation,4000000,"Gaming,Kualitas Grafis Tinggi",3
+929,Tenda Camping 6 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+930,Sepatu Running Nike Air Zoom Alphafly Next%,Nike,Sepatu,2700000,"Nyaman,Atletik",6
+931,Matras Angin Tidur Double,Intex,Matras,250000,"Nyaman,Tahan Lama",7
+932,Tas Camping Gregory Baltoro 65,Gregory,Tas Camping,2400000,"Tahan Air,Tahan Lama",5
+933,Kamera DSLR Nikon D750,Nikon,Camera,10000000,"Fotografi,Kualitas Tinggi",2
+934,Speaker Bluetooth Marshall Kilburn II,Marshall,Speaker,3500000,"Portabel,Suara Kualitas Tinggi",5
+935,Proyektor HD Optoma HD28HDR,Optoma,Proyektor,4000000,"Kualitas Gambar Tinggi, Terang",4
+936,PlayStation 5 Digital Edition,Sony,Playstation,5500000,"Gaming,Kualitas Grafis Tinggi",2
+937,Tenda Camping 6 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+938,Sepatu Running Adidas Adizero Adios 6,Adidas,Sepatu,1800000,"Nyaman,Atletik",8
+939,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+940,Tas Camping Deuter Aircontact Lite 40+10,Deuter,Tas Camping,1700000,"Tahan Air,Tahan Lama",5
+941,Kamera Mirrorless Fujifilm X-T4,Fujifilm,Camera,8000000,"Fotografi,Kualitas Tinggi",3
+942,Speaker Bluetooth Sony SRS-XB43,Sony,Speaker,3000000,"Portabel,Suara Kualitas Tinggi",4
+943,Proyektor HD ViewSonic PX747-4K,ViewSonic,Proyektor,6500000,"Kualitas Gambar Tinggi, Terang",3
+944,PlayStation 4 Pro,Sony,Playstation,4000000,"Gaming,Kualitas Grafis Tinggi",3
+945,Tenda Camping 4 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+946,Sepatu Running Nike Air Zoom Alphafly Next%,Nike,Sepatu,2700000,"Nyaman,Atletik",6
+947,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+948,Tas Camping Black Diamond Distance 15,Black Diamond,Tas Camping,1700000,"Tahan Air,Tahan Lama",5
+949,Kamera Mirrorless Canon EOS R6,Canon,Camera,10000000,"Fotografi,Kualitas Tinggi",2
+950,Speaker Bluetooth JBL Xtreme 3,JBL,Speaker,3000000,"Portabel,Suara Bass Tinggi",5
+951,Proyektor HD Optoma HD146X,Optoma,Proyektor,4000000,"Kualitas Gambar Tinggi, Terang",4
+952,PlayStation 5 Digital Edition,Sony,Playstation,5500000,"Gaming,Kualitas Grafis Tinggi",2
+953,Tenda Camping 8 Orang,Coleman,Tenda,250000,"Nyaman,Mudah Dipasang",4
+954,Sepatu Running ASICS GEL-Kayano 28,ASICS,Sepatu,1900000,"Nyaman,Atletik",8
+955,Matras Angin Tidur Double,Intex,Matras,250000,"Nyaman,Tahan Lama",7
+956,Tas Camping Deuter Futura Vario 50+10,Deuter,Tas Camping,2100000,"Tahan Air,Tahan Lama",6
+957,Kamera Mirrorless Fujifilm X-T4,Fujifilm,Camera,8000000,"Fotografi,Kualitas Tinggi",3
+958,Speaker Bluetooth Sony SRS-XB43,Sony,Speaker,3000000,"Portabel,Suara Kualitas Tinggi",4
+959,Proyektor HD Epson EH-TW7100,Epson,Proyektor,6000000,"Kualitas Gambar Tinggi, Terang",4
+960,PlayStation 4 Pro,Sony,Playstation,4000000,"Gaming,Kualitas Grafis Tinggi",3
+961,Tenda Camping 6 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+962,Sepatu Running Nike Air Zoom Alphafly Next%,Nike,Sepatu,2700000,"Nyaman,Atletik",6
+963,Matras Angin Tidur Double,Intex,Matras,250000,"Nyaman,Tahan Lama",7
+964,Tas Camping Gregory Baltoro 65,Gregory,Tas Camping,2400000,"Tahan Air,Tahan Lama",5
+965,Kamera DSLR Nikon D750,Nikon,Camera,10000000,"Fotografi,Kualitas Tinggi",2
+966,Speaker Bluetooth Marshall Kilburn II,Marshall,Speaker,3500000,"Portabel,Suara Kualitas Tinggi",5
+967,Proyektor HD Optoma HD28HDR,Optoma,Proyektor,4000000,"Kualitas Gambar Tinggi, Terang",4
+968,PlayStation 5 Digital Edition,Sony,Playstation,5500000,"Gaming,Kualitas Grafis Tinggi",2
+969,Tenda Camping 6 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+970,Sepatu Running Adidas Adizero Adios 6,Adidas,Sepatu,1800000,"Nyaman,Atletik",8
+971,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+972,Tas Camping Deuter Aircontact Lite 40+10,Deuter,Tas Camping,1700000,"Tahan Air,Tahan Lama",5
+973,Kamera Mirrorless Fujifilm X-T4,Fujifilm,Camera,8000000,"Fotografi,Kualitas Tinggi",3
+974,Speaker Bluetooth Sony SRS-XB43,Sony,Speaker,3000000,"Portabel,Suara Kualitas Tinggi",4
+975,Proyektor HD ViewSonic PX747-4K,ViewSonic,Proyektor,6500000,"Kualitas Gambar Tinggi, Terang",3
+976,PlayStation 4 Pro,Sony,Playstation,4000000,"Gaming,Kualitas Grafis Tinggi",3
+977,Tenda Camping 4 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+978,Sepatu Running Nike Air Zoom Alphafly Next%,Nike,Sepatu,2700000,"Nyaman,Atletik",6
+979,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+980,Tas Camping Black Diamond Distance 15,Black Diamond,Tas Camping,1700000,"Tahan Air,Tahan Lama",5
+981,Kamera Mirrorless Canon EOS R6,Canon,Camera,10000000,"Fotografi,Kualitas Tinggi",2
+982,Speaker Bluetooth JBL Xtreme 3,JBL,Speaker,3000000,"Portabel,Suara Bass Tinggi",5
+983,Proyektor HD Optoma HD146X,Optoma,Proyektor,4000000,"Kualitas Gambar Tinggi, Terang",4
+984,PlayStation 5 Digital Edition,Sony,Playstation,5500000,"Gaming,Kualitas Grafis Tinggi",2
+985,Tenda Camping 8 Orang,Coleman,Tenda,250000,"Nyaman,Mudah Dipasang",4
+986,Sepatu Running ASICS GEL-Kayano 28,ASICS,Sepatu,1900000,"Nyaman,Atletik",8
+987,Matras Angin Tidur Double,Intex,Matras,250000,"Nyaman,Tahan Lama",7
+988,Tas Camping Deuter Futura Vario 50+10,Deuter,Tas Camping,2100000,"Tahan Air,Tahan Lama",6
+989,Kamera Mirrorless Fujifilm X-T4,Fujifilm,Camera,8000000,"Fotografi,Kualitas Tinggi",3
+990,Speaker Bluetooth Sony SRS-XB43,Sony,Speaker,3000000,"Portabel,Suara Kualitas Tinggi",4
+991,Proyektor HD Epson EH-TW7100,Epson,Proyektor,6000000,"Kualitas Gambar Tinggi, Terang",4
+992,PlayStation 4 Pro,Sony,Playstation,4000000,"Gaming,Kualitas Grafis Tinggi",3
+993,Tenda Camping 6 Orang,Coleman,Tenda,200000,"Nyaman,Mudah Dipasang",5
+994,Sepatu Running Nike Air Zoom Alphafly Next%,Nike,Sepatu,2700000,"Nyaman,Atletik",6
+995,Matras Angin Tidur Single,Intex,Matras,150000,"Nyaman,Tahan Lama",9
+996,Tas Camping Deuter Aircontact Lite 40+10,Deuter,Tas Camping,1700000,"Tahan Air,Tahan Lama",5
+997,Kamera Mirrorless Fujifilm X-T4,Fujifilm,Camera,8000000,"Fotografi,Kualitas Tinggi",3
+998,Speaker Bluetooth Sony SRS-XB43,Sony,Speaker,3000000,"Portabel,Suara Kualitas Tinggi",4
+999,Proyektor HD ViewSonic PX747-4K,ViewSonic,Proyektor,6500000,"Kualitas Gambar Tinggi, Terang",3
+1000,PlayStation 4 Pro,Sony,Playstation,4000000,"Gaming,Kualitas Grafis Tinggi",3
