@@ -20,4 +20,4 @@ Project Team Members:
 ### Classification Model
 ![Model Classification](Images/Classification.png)
 ### Recommendation System Model
-![Model Recommendation System](Images/Recomendation System.png)
+![Recomenndation System](Images/Recomendation%20System.png)
