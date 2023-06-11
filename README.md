@@ -30,13 +30,17 @@ Kaggle Dataset: by ___ Description
 
 ## Timeline and Master Plan Fitur 1 and 2
 Stage 1: Dataset and Pre-Processing
+
 We are gathering the necessary dataset for model training. We are also organizing and cleaning the data collection for each breed, removing irrelevant or damaged images to avoid overfitting/underfitting or any potential degradation in model performance. We are ready for further processing and will store the images at a large scale using Google Storage and Google Drive, making the dataset accessible to the ML Barkit team. The dataset for Feature 1, which is Classification of item types, will be separated into training and testing subsets. For Feature 2, which is System Recommendation, the data will be divided into training and testing sets.
 
 Stage 2: Build and Train Model
+
 We will select and design a suitable Deep Learning architecture for the given task. We will also build and configure the model's layers, such as convolutional layers, hidden layers, etc. Next, the model will be trained using the training subset of the dataset. Finally, we will validate and evaluate the performance of the model using a dedicated validation subset, particularly for Feature 1, which is the primary feature, i.e., classification of item types.
 
 Stage 3: Optimizing Model
+
 During the model optimization phase, we identify areas where the model can be enhanced and optimized. We then implement techniques such as hyperparameter tuning, utilizing improved activation functions, regularization, or dropout to enhance the model's performance. Additionally, at this stage, we devise strategies to prevent overfitting or underfitting and select an appropriate optimization method, such as Stochastic Gradient Descent (SGD) or a suitable algorithm.
 
 Stage 4: Deployment Preparation
+
 At this stage, we ensure that the trained Deep Learning model is ready for implementation in a production environment. We conduct thorough testing of the model on a separate testing dataset to ensure its performance meets expectations. Additionally, we prepare the necessary code and infrastructure to provide interfaces that enable real-time usage of the model. Furthermore, we convert the model to TFLite or TFjs format and ensure it is ready for deployment.
