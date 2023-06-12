@@ -19,11 +19,14 @@ Project Team Members:
 - Fitur1_split = cointaining folder containing the results of splitting the image dataset into training, validation and test folders.
 
 ## Dataset
-For feature 1, images were randomly collected from the internet, ensuring they are suitable for the model. For feature 2, data was gathered from a publicly available source on the internet, and a dummy dataset was created.
+- ### Feature 1 images were randomly collected/ scrapping from the internet, ensuring they are suitable for the model:
+    [3600 images with 8 classes](https://github.com/BangkitCapstone2023/BarKit-ML/tree/main/DATASET/8%20image%20classes)
 
-1. Kaggle Dataset URL: https://www.kaggle.com/code/ebruzumruttas/recommendation-engine-for-e-commerce-company
+- ### Feature 2 data was gathered from a publicly available source on the internet, and a dummy dataset was created :
+    [Kaggle Dataset E-Commerce Company](https://www.kaggle.com/code/ebruzumruttas/recommendation-engine-for-e-commerce-company)
 
-Kaggle Dataset: by ___ Description
+    [1000 Dummy dataset items details](https://github.com/BangkitCapstone2023/BarKit-ML/blob/main/DATASET/recommendation%20system/1000_dummy_product.csv)
+
 
 ## Classification Workflow
 ### Classification Model
