@@ -13,6 +13,10 @@ Project Team Members:
 6. (MD) A366DSX3591 – Robby Alamsyah – Trunojoyo University
 
 ## What's in this repo?
+- Dataset = folder containing image datasets of 8 types of items and item detail datasets on ecommerce in csv form.
+- Fitur_model = folder containing deep learning model using CNN for image classification and Machine Learning model using Cosine Similarity algorithm for recommendation system.
+- Fitur_deploy= folder containing the results of deploying deep learning models in the form of TFJS and TFLITE
+- Fitur1_split = cointaining folder containing the results of splitting the image dataset into training, validation and test folders.
 
 ## Dataset
 For feature 1, images were randomly collected from the internet, ensuring they are suitable for the model. For feature 2, data was gathered from a publicly available source on the internet, and a dummy dataset was created.
